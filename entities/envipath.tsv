@@ -1,0 +1,931 @@
+c0405	(+)-(3S,4R)-cis-3,4-Dihydroxy-3,4-dihydrofluorene
+c0685	(+)-(4R)-Limonene
+c0830	(1-Methylpentyl)succinate
+c0831	(1-Methylpentyl)succinyl-CoA
+c0673	(1S,2S,4R)-Limonene-1,2-diol
+c0674	(1S,4R)-1-Hydroxy-2-oxolimonene
+c0832	(2-Methylhexyl)malonyl-CoA
+c1137	(2E)-5-Methylhexa-2,4-dienoyl-CoA
+c1027	(2E,4E)-2-Hydroxyhexa-2,4-dienoate
+c0226	(2E,4Z)-2-Hydroxy-6-oxoocta-2,4,7-trienoate
+c1007	(2Z)-2,4-Dihydroxydec-2-enedioate
+c1545	(2Z)-3-(4-Formyl-2-hydroxy-1H-imidazol-5-yl)-2-hydroxyprop-2-enoate
+c0759	(3E)-4-(5-Amino-2-hydroxy-phenyl)-2-oxo-but-3-ene-1-oic-acid
+c1024	(3E,1Z)-4,5-9,10-Diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate
+c0678	(3R)-3-Isopropenyl -6-oxoheptanoyl-CoA
+c0676	(3R)-3-Isopropenyl-6-oxoheptanoate
+c0944	(3S)-3-Hydroxyadipyl-CoA
+c0030	(3S)-3-Hydroxybutyryl-CoA
+c0030	(3S)-3-Hydroxybutyryl-CoA
+c0404	(3S,4R)-3,4-Dihydroxy-3,4-dihydro-9-fluorenone
+c0672	(4R)-Limonene-1,2-epoxide
+c1041	(R)-1,2,3,4-Tetrahydronaphthol
+c0470	(R)-6-Hydroxynicotine
+c0468	(RS)-Nicotine
+c0266	(S)-1-Phenylethanol
+c0323	(Z)-4-(2-Hydroxy-5-sulfonatophenyl)-2-oxo-3-butenoate
+c0384	1,1,1-Trichloro-2,2-bis-(4`-chlorophenyl)ethane (DDT)
+c0384	1,1,1-Trichloro-2,2-bis-(4`-chlorophenyl)ethane (DDT)
+c0892	1,1,1-Trichloroethane
+c0009	1,1,2-Trichloroethylene
+c0505	1,1-Dichloro-2,2-bis(4`-chlorophenyl)ethane (DDD)
+c0406	1,1-Dichloro-2,2-bis(4`-chlorophenyl)ethylene (DDE)
+c0406	1,1-Dichloro-2,2-bis(4`-chlorophenyl)ethylene (DDE)
+c0414	1,1-Dichloro-2-(dihydroxy-4`-chorophenyl)-2-(4`-chlorophenyl)ethylene
+c1042	1,2,3,4-Tetrahydronaphthalone
+c0687	1,2,3-Trichlorobenzene
+c0264	1,2,4-Benzenetriol
+c0465	1,2,4-Trichlorobenzene
+c0465	1,2,4-Trichlorobenzene
+c1548	1,2-Diaminobenzene
+c1393	1,2-Dihydronaphthalene
+c1003	1,2-Dihydroxy-5,6,7,8-tetrahydronaphthalene
+c0252	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate
+c0707	1,2-Dihydroxy-7-hydroxymethylnaphthalene
+c0715	1,2-Dihydroxy-8-methylnaphthalene
+c0399	1,2-Dihydroxyfluorene
+c0129	1,2-Dihydroxynaphthalene
+c0129	1,2-Dihydroxynaphthalene
+c0129	1,2-Dihydroxynaphthalene
+c0322	1,2-Dihydroxynaphthalene-6-sulfonate
+c0546	1,2-Dihydroxyphenanthrene
+c1495	1,2-Epoxyphenylacetyl-CoA
+c0778	1,2-bis(4-Hydroxyphenyl)-2-propanol
+c0514	1,3(R),4(S),5(S),6(R)-Pentachlorocyclohexene
+c0522	1,3(R),4,6(R)-Tetrachloro-1,4-cyclohexadiene
+c1153	1,3,7-Trimethyluric acid
+c0593	1,4-Dichlorobenzene
+c0853	1,6-Dihydroxypyrene
+c0860	1,6-Dimethoxypyrene
+c1103	1,7-Dimethyluric acid
+c0856	1,8-Dihydroxypyrene
+c0499	1-Chloro-2,2-bis(4`-chlorophenyl)ethane (DDMS)
+c0430	1-Chloro-2,2-bis(4`-chlorophenyl)ethylene (DDMU)
+c0430	1-Chloro-2,2-bis(4`-chlorophenyl)ethylene (DDMU)
+c1447	1-Chloroacetyl-2,3-dihydro-7-ethylindole
+c0401	1-Formyl-2-indanone
+c0916	1-Hydro-1,1a-dihydroxy-9-fluorenone
+c0437	1-Hydroxy-2-naphthaldehyde
+c0438	1-Hydroxy-2-naphthoate
+c1142	1-Hydroxy-4,4-dimethylpentan-3-one
+c0864	1-Hydroxy-6-methoxypyrene
+c0720	1-Hydroxymethylnaphthalene
+c0851	1-Hydroxypyrene
+c0852	1-Hydroxypyrene-6,7-oxide
+c0855	1-Hydroxypyrene-7,8-oxide
+c0395	1-Indanone
+c0451	1-Methoxyphenanthrene
+c0451	1-Methoxyphenanthrene
+c0859	1-Methoxypyrene
+c0863	1-Methoxypyrene-6,7-oxide
+c0713	1-Methylnaphthalene
+c0721	1-Naphthaldehyde
+c0723	1-Naphthoic acid
+c0059	1-Oxa-2-oxocycloheptane
+c0450	1-Phenanthrol
+c0450	1-Phenanthrol
+c0450	1-Phenanthrol
+c0498	1-Phenanthryl-beta-D-glucopyranoside
+c0535	1-Phenanthrylsulfate
+c0858	1-Pyrenylsulfate
+c0966	10-Oxabenzo(def)chrysen-9-one
+c0953	11,12-Dihydroxybenzo(a)pyrene
+c1125	17beta-Hydroxyandrosta-1,4-diene-3-one
+c1096	2,2-Dimethyl-3-pentanone
+c0789	2,2-bis(4-Hydroxyphenyl)-1-propanoate
+c0788	2,2-bis(4-Hydroxyphenyl)-1-propanol
+c0500	2,2-bis(4`-Chlorophenyl)ethanol (DDOH)
+c0458	2,2`,6,6`-Tetranitro-4,4`-azoxytoluene
+c0513	2,2`-Biphenyldimethanol
+c0512	2,2`-Diphenate
+c0512	2,2`-Diphenate
+c1132	2,2`-Dithio-bis-benzothiazole
+c0487	2,3,5-Trichloro-cis,cis-muconate
+c1167	2,3,6-Trihydroxyisonicotinate
+c0475	2,3,6-Trihydroxypyridine
+c0475	2,3,6-Trihydroxypyridine
+c0219	2,3-Didehydro-pimeloyl-CoA
+c0420	2,3-Dihydroxy DDT
+c0521	2,3-Dihydroxy-2-methyl propionate
+c0917	2,3-Dihydroxy-2`-carboxybiphenyl
+c0380	2,3-Dihydroxy-p-cumate
+c0056	2,3-Dihydroxybenzoate
+c0274	2,3-Dihydroxyethylbenzene
+c1009	2,3-Dihydroxynaphthalene
+c1009	2,3-Dihydroxynaphthalene
+c1511	2,3-Epoxybenzoyl-CoA
+c0790	2,3-bis(4-Hydroxyphenyl)-1,2-propanediol
+c1079	2,4,4-Trimethyl-1-pentanol
+c1140	2,4,4-Trimethyl-3-hydroxypentanoyl-CoA
+c1081	2,4,4-Trimethyl-3-oxopentanoate
+c1141	2,4,4-Trimethyl-3-oxopentanoyl-CoA
+c1108	2,4,4-Trimethylpent-2-enoyl-CoA
+c1092	2,4,4-Trimethylpentanal
+c1080	2,4,4-Trimethylpentanoate
+c1093	2,4,4-Trimethylpentanoyl-CoA
+c0536	2,4,5-Trichloro-2,5-cyclohexadiene-1-ol
+c1316	2,4,5-Trihydroxytoluene
+c0482	2,4,6-Triaminotoluene
+c0510	2,4,6-Trihydroxytoluene
+c0439	2,4,6-Trinitrotoluene
+c0439	2,4,6-Trinitrotoluene
+c0483	2,4-Diamino-6-hydroxylaminotoluene
+c0456	2,4-Diamino-6-nitrotoluene
+c1340	2,4-Diaminotoluene
+c0292	2,4-Dichloro-cis,cis-muconate
+c0289	2,4-Dichlorophenol
+c0289	2,4-Dichlorophenol
+c0288	2,4-Dichlorophenoxyacetic acid
+c0865	2,4-Dichlorotoluene
+c0168	2,4-Dihydroxy-6-(N`-ethyl)amino-1,3,5-triazine
+c0172	2,4-Dihydroxy-6-amino-1,3,5-triazine
+c0310	2,4-Dihydroxy-hept-trans-2-ene-1,7-dioate
+c0441	2,4-Dihydroxylamino-6-nitrotoluene
+c0441	2,4-Dihydroxylamino-6-nitrotoluene
+c1313	2,4-Dinitrotoluene
+c0461	2,4`,6,6`-Tetranitro-4,2`-azoxytoluene
+c0543	2,5-Dichloro-2,5-cyclohexadiene-1,4-diol
+c0489	2,5-Dichloro-4-oxohex-2-enedioate
+c0488	2,5-Dichloro-carboxymethylenebut-2-en-4-olide
+c0364	2,5-Dichlorohydroquinone
+c0545	2,5-Dichlorophenol
+c1250	2,5-Dihydroxypyridine
+c1544	2,6,7-Trihydroxybenzimidazole
+c1133	2,6,7-Trihydroxybenzothiazole
+c0462	2,6-Diamino-4-nitrotoluene
+c1450	2,6-Diethyl-N-(methoxymethyl)aniline
+c1448	2,6-Diethylaniline
+c0477	2,6-Dihydroxy-N-methylmysosmine
+c1131	2,6-Dihydroxybenzothiazole
+c0231	2,6-Dihydroxycyclohexane-1-carboxyl-CoA
+c0469	2,6-Dihydroxypseudooxynicotine
+c0473	2,6-Dihydroxypyridine
+c0888	2,6-Dimethyl-5-methylene-3-oxo-heptanoyl-CoA
+c0416	2-(4`-Chlorophenyl)-3,3-dichloropropenoate
+c1307	2-(Acetamidomethylene)succinate
+c1311	2-(Hydroxymethyl)-3-(acetamidomethylene)succinate
+c1127	2-(Methylsulfinyl)benzothiazole
+c1126	2-(Methylthio)benzothiazole
+c0459	2-Amino-4,6-dinitrotoluene
+c0459	2-Amino-4,6-dinitrotoluene
+c0464	2-Amino-4-nitrotoluene
+c0464	2-Amino-4-nitrotoluene
+c0478	2-Amino-5-hydroxyl-4-hydroxylamino-6-nitrotoluene
+c1541	2-Aminobenzimidazole
+c0318	2-Aminomuconate semialdehyde
+c0316	2-Aminophenol
+c0448	2-Carboxybenzaldehyde
+c1120	2-Carboxycyclohexylacetate
+c1442	2-Chloro-2`,6`-diethylacetanilide
+c0872	2-Chloro-3-methyl-cis/trans-dienelactone
+c0490	2-Chloro-3-oxoadipate
+c0173	2-Chloro-4-hydroxy-6-amino-1,3,5-triazine
+c0869	2-Chloro-5-methyl-cis-dienelactone
+c0870	2-Chloro-5-methylmaleylacetate
+c0659	2-Chloro-N-isopropylacetamide
+c0653	2-Chloro-N-isopropylacetanilide
+c0355	2-Chlorobenzoate
+c0098	2-Chloromaleylacetate
+c1474	2-Ethenyl-6-ethyl-N-methylideneaniline
+c0394	2-Formyl-1-indanone
+c0598	2-Hydroxy-1,4-benzoquinone
+c0547	2-Hydroxy-1-phenanthryl-beta-D-glucopyranoside
+c0523	2-Hydroxy-2-methyl-1,3-dicarbonate
+c0481	2-Hydroxy-2H-benzo[h]chromene-2-carboxylate
+c1449	2-Hydroxy-2`,6`-diethyl-N-acetanilide
+c1337	2-Hydroxy-3-(3-methylpropan-2-ol) benzene-N-methylcarbamate
+c0381	2-Hydroxy-3-carboxy-6-oxo-7-methylocta-2,4-dienoate
+c1349	2-Hydroxy-3-methyl-6-oxohepta-2,4-dienoate
+c0717	2-Hydroxy-3-methylbenzalpyruvate
+c1348	2-Hydroxy-4,5-dimethyl-6-oxohexa-2,4-dienoate
+c0393	2-Hydroxy-4-(1-oxo-1,3-dihydro-2H-inden-2-ylidene)but-2-enoate
+c0400	2-Hydroxy-4-(2-oxo-1,3-dihydro-2H-inden-1-ylidene)but-2-enoate
+c0192	2-Hydroxy-4-carboxymuconate semialdehyde
+c0709	2-Hydroxy-4-hydroxymethylbenzalpyruvate
+c0893	2-Hydroxy-4-isopropenylcyclohexane-1-carboxyl-CoA
+c1347	2-Hydroxy-5-methyl-6-oxohepta-2,4-dienoate
+c0204	2-Hydroxy-5-methyl-cis,cis-muconic semialdehyde
+c1315	2-Hydroxy-5-methylquinone
+c0918	2-Hydroxy-6-oxo-6-(2-carboxyphenyl)-hexa-2,4-dienoate
+c0382	2-Hydroxy-6-oxo-7-methylocta-2,4-dienoate
+c0275	2-Hydroxy-6-oxoocta-2,4-dienoate
+c0708	2-Hydroxy-7-hydroxymethylchromene-2-carboxylate
+c0716	2-Hydroxy-8-methylchromene-2-carboxylate
+c0107	2-Hydroxy-cis,cis-muconate semialdehyde
+c0276	2-Hydroxyacetophenone
+c1543	2-Hydroxybenzimidazole
+c1130	2-Hydroxybenzothiazole
+c0335	2-Hydroxychromene-2-carboxylate
+c0216	2-Hydroxycyclohexane-1-carboxyl-CoA
+c1005	2-Hydroxydec-2,4-diene-1,10-dioate
+c0518	2-Hydroxyisobutyrate
+c1165	2-Hydroxyisonicotinate
+c0463	2-Hydroxylamino-4,6-dinitrotoluene
+c0463	2-Hydroxylamino-4,6-dinitrotoluene
+c0700	2-Hydroxymethylnaphthalene
+c1312	2-Hydroxymethylsuccinate semialdehyde
+c0223	2-Hydroxyphenylacetate
+c0223	2-Hydroxyphenylacetate
+c0861	2-Hydroxypyrene
+c0281	2-Hydroxytoluene
+c0402	2-Indanone
+c0217	2-Ketocyclohexane-1-carboxyl-CoA
+c1019	2-Mercaptobenzothiazole
+c1021	2-Mercaptobenzothiazole-cis-6,7-dihydrodiol
+c0517	2-Methyl-2-hydroxy-1-propanol
+c1334	2-Methyl-2-hydroxypropanal
+c1304	2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate
+c1341	2-Methyl-3-oxoadipate
+c0840	2-Methyl-3-oxohexanoyl-CoA
+c0250	2-Methylbenzaldehyde
+c0249	2-Methylbenzyl alcohol
+c0838	2-Methylhex-2-enoyl-CoA
+c0837	2-Methylhexanoyl-CoA
+c0699	2-Methylnaphthalene
+c0699	2-Methylnaphthalene
+c0701	2-Naphthaldehyde
+c0702	2-Naphthoate
+c0702	2-Naphthoate
+c1115	2-Naphthoyl-CoA
+c1322	2-Nitrophenol
+c0205	2-Oxohex-trans-4-enoate
+c0525	2-Phenanthrol
+c0537	2-Phenanthrylsulfate
+c0519	2-Propanol
+c1496	2-oxepin-2(3H)-ylideneacetyl-CoA
+c1100	3,3-Dimethyl-2-butanone
+c0484	3,4,6-Trichloro-cis-1,2-dihydroxycyclohexa-3,5-diene
+c0485	3,4,6-Trichlorocatechol
+c1513	3,4-Dehydroadipyl-CoA
+c1512	3,4-Dehydroadipyl-CoA semialdehyde
+c0397	3,4-Dihydrocoumarin
+c1122	3,4-Dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione
+c0120	3,4-Dihydroxybenzoate
+c0120	3,4-Dihydroxybenzoate
+c0392	3,4-Dihydroxyfluorene
+c0435	3,4-Dihydroxyphenanthrene
+c0435	3,4-Dihydroxyphenanthrene
+c0272	3,4-Dihydroxyphenylacetate
+c1253	3,4-Dihydroxyphthalate
+c1344	3,4-Dimethylcatechol
+c0871	3,5-Dichloro-2-methylmuconolactone
+c0868	3,5-Dichloro-3-methyl-cis,cis-muconate
+c0290	3,5-Dichlorocatechol
+c1154	3,6,8-Trimethylallantoin
+c1346	3,6-Dimethylcatechol
+c1101	3,7-Dimethyluric acid
+c1287	3-(2-Hydroxy-2-methylpropyl)benzene-1,2-diol
+c0398	3-(2-Hydroxyphenyl)propionate
+c0191	3-Carboxy-cis,cis-muconate
+c0873	3-Chloro-2-methylmaleylacetate
+c0297	3-Chloro-cis,cis-muconate
+c0396	3-Hydroxy-1-indanone
+c0887	3-Hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA
+c0839	3-Hydroxy-2-methylhexanoyl-CoA
+c1305	3-Hydroxy-2-methylpyridine-4,5-dicarboxylate
+c1306	3-Hydroxy-2-methylpyridine-5-carboxylate
+c0997	3-Hydroxy-2-naphthoate
+c1034	3-Hydroxy-3-isohexeneylglutaryl-CoA
+c0835	3-Hydroxy-4-methyloctanoyl-CoA
+c1138	3-Hydroxy-5-methylhex-4-enoyl-CoA
+c0028	3-Hydroxy-5-oxohexanoate
+c0029	3-Hydroxy-5-oxohexanoyl-CoA
+c1121	3-Hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione
+c1324	3-Hydroxyaminophenol
+c0187	3-Hydroxybenzoate
+c1342	3-Hydroxycarbofuran
+c0220	3-Hydroxypimelyl-CoA
+c0282	3-Hydroxytoluene
+c0403	3-Isochromanone
+c0686	3-Isopropenylpimelyl-CoA
+c0684	3-Isopropylbut-3-enoic acid
+c0889	3-Isopropylbut-3-enoyl-CoA
+c1343	3-Ketocarbofuran
+c0221	3-Ketopimelyl-CoA
+c1493	3-Methyl-2-butanone
+c0208	3-Methyl-cis,cis-hexadienedioate
+c0125	3-Methylcatechol
+c0125	3-Methylcatechol
+c0125	3-Methylcatechol
+c1036	3-Methylcrotonyl-CoA
+c1394	3-Methylmuconolactone
+c0718	3-Methylsalicylaldehyde
+c0719	3-Methylsalicylate
+c1323	3-Nitrophenol
+c1497	3-Oxo-5,6-dehydrosuberyl-CoA
+c0100	3-Oxoadipate
+c0100	3-Oxoadipate
+c0931	3-Oxoadipyl-CoA
+c0931	3-Oxoadipyl-CoA
+c0494	3-Phenanthrol
+c0494	3-Phenanthrol
+c0538	3-Phenanthrylsulfate
+c0225	3-Vinylcatechol
+c0996	3-[(Z)-2-carboxyvinyl]-2-naphthoate
+c1143	4,4-Dimethyl-3-oxopentanal
+c1097	4,4-Dimethyl-3-oxopentanoate
+c0460	4,4`,6,6`-Tetranitro-2,2`-azoxytoluene
+c0504	4,4`-Dichlorobenzophenone (DBP)
+c0779	4,4`-Dihydroxy-alpha-methylstilbene
+c0817	4,4`-Diisopropylazobenzene
+c0960	4,5-Chrysenedicarboxylate
+c0958	4,5-Dihydroxybenzo(a)pyrene
+c0183	4,5-Dihydroxyphthalate
+c0843	4,5-Dihydroxypyrene
+c1345	4,5-Dimethylcatechol
+c0866	4,6-Dichloro-3-methyl-cis-1,2-dihydroxycyclohexa-3,5-diene
+c0867	4,6-Dichloro-3-methylcatechol
+c1508	4,6-Dioxoheptanoate
+c1489	4-(2-Hydroxypropan-2-yl)phenol
+c1004	4-(2-Oxocyclohexyl)-2-hydroxy-buta-2,4-dienoate
+c0455	4-Amino-2,6-dinitrotoluene
+c0455	4-Amino-2,6-dinitrotoluene
+c0442	4-Amino-2-hydroxylamino-6-nitrotoluene
+c0443	4-Amino-2-nitroso-6-nitrotoluene
+c1339	4-Amino-2-nitrotoluene
+c1390	4-Aminocatechol
+c0417	4-Chloroacetophenone
+c0418	4-Chlorobenzaldehyde
+c0103	4-Chlorobenzoate
+c0296	4-Chlorocatechol
+c0296	4-Chlorocatechol
+c0295	4-Chlorophenol
+c0294	4-Chlorophenoxyacetate
+c0385	4-Chlorophenylacetate
+c0385	4-Chlorophenylacetate
+c0385	4-Chlorophenylacetate
+c0703	4-Formylsalicylic acid
+c0206	4-Hydroxy-2-oxohexanoate
+c0206	4-Hydroxy-2-oxohexanoate
+c0101	4-Hydroxy-2-oxovalerate
+c0101	4-Hydroxy-2-oxovalerate
+c0101	4-Hydroxy-2-oxovalerate
+c0391	4-Hydroxy-9-fluorenone
+c0694	4-Hydroxyacetophenone
+c0285	4-Hydroxybenzaldehyde
+c0285	4-Hydroxybenzaldehyde
+c0104	4-Hydroxybenzoate
+c0104	4-Hydroxybenzoate
+c0104	4-Hydroxybenzoate
+c0104	4-Hydroxybenzoate
+c1336	4-Hydroxycarbofuran
+c0440	4-Hydroxylamino-2,6-dinitrotoluene
+c0440	4-Hydroxylamino-2,6-dinitrotoluene
+c0712	4-Hydroxymethylcatechol
+c0710	4-Hydroxymethylsalicylaldehyde
+c0711	4-Hydroxymethylsalicylate
+c0791	4-Hydroxyphenacyl alcohol
+c0271	4-Hydroxyphenylacetate
+c0235	4-Hydroxyphenylpyruvate
+c0186	4-Hydroxyphthalate
+c0127	4-Hydroxytoluene
+c0127	4-Hydroxytoluene
+c0894	4-Isopropenyl-2-ketocyclohexane-1-carboxyl-CoA
+c0816	4-Isopropylaniline
+c0109	4-Maleylacetoacetate
+c0109	4-Maleylacetoacetate
+c0109	4-Maleylacetoacetate
+c0370	4-Methoxybenzoate
+c1396	4-Methyl-3-oxoadipate
+c1395	4-Methyl-3-oxoadipate-enol-lactone
+c0836	4-Methyl-3-oxooctanoyl-CoA
+c1314	4-Methyl-5-nitrocatechol
+c0474	4-Methylaminobutyrate
+c0126	4-Methylcatechol
+c0126	4-Methylcatechol
+c0203	4-Methylcyclohexa-3,5-diene-1,2-cis-diol-1-carboxylic acid
+c0298	4-Methylenebut-2-en-4-olide
+c0209	4-Methylmuconolactone
+c0834	4-Methyloct-2-enoyl-CoA
+c0833	4-Methyloctanoyl-CoA
+c0705	4-Methylsalicylate
+c0263	4-Nitrocatechol
+c0493	4-Phenanthrol
+c0493	4-Phenanthrol
+c0539	4-Phenanthrylsulfate
+c1295	4-Pyridoxate
+c1303	4-Pyridoxolactone
+c1134	4-[2-Carboxylatovinyl]-2-hydroxythiazole-5-carboxylate
+c1025	4-[2-Carboxylatovinyl]-2-mercaptothiazole-5-carboxylate
+c1588	4-aminobutanoate
+c1490	4-iso-Propenylphenol
+c1492	4-iso-Propylcatechol
+c1491	4-iso-Propylphenol
+c0814	4`-(2-Hydroxyisopropyl)phenylaniline
+c0813	4`-(2-Hydroxyisopropyl)phenylurea
+c1116	5,6,7,8-Tetrahydro-2-naphthoate
+c0747	5-Aminosalicylaldehyde
+c0732	5-Aminosalicylate
+c0943	5-Carboxy-2-pentenoyl-CoA
+c0943	5-Carboxy-2-pentenoyl-CoA
+c1246	5-Chloro-2-hydroxymuconate
+c0300	5-Chloro-2-hydroxymuconic semialdehyde
+c1247	5-Chloro-2-oxopent-4-enoate
+c1248	5-Chloro-4-hydroxy-2-oxopentanate
+c1338	5-Hydroxycarbofuran
+c1139	5-Methyl-3-oxo-4-hexenoyl-CoA
+c1136	5-Methylhex-4-enoyl-CoA
+c1335	5-Methylmaleylacetate
+c1310	5-Pyridoxate
+c1309	5-Pyridoxolactone
+c0324	5-Sulfosalicylate
+c0995	6,7-Benzocoumarin
+c1023	6,7-Dihydroxy-2-mercaptobenzothiazole
+c0757	6-Amino-1,2-dihydroxynaphthalene
+c0758	6-Amino-2-hydroxychromene-2-carboxylate
+c0733	6-Amino-2-naphthalenesulfonic acid
+c1022	6-Hydroxy-2-mercaptobenzothiazole
+c1249	6-Hydroxy-3-succinoylpyridine
+c1507	6-Hydroxycyclohepta-1,4-dione
+c0230	6-Hydroxycyclohex-1-ene-1-carboxyl-CoA
+c0013	6-Hydroxyhexanoate
+c0472	6-Hydroxypseudooxynicotine
+c0421	6-Oxo-2-hydroxy-7-(4`-chlorophenyl)-3,8,8,8-tetrachloroocta-2Z,4Z-dienoate
+c0415	6-Oxo-2-hydroxy-7-(4`-chlorophenyl)-3,8,8-trichloroocta-2Z,4Z,7-trienoate
+c0232	6-Oxo-2-hydroxycyclohexane-1-carboxyl-CoA
+c0112	6-Oxohexanoate
+c0967	7,8-Dihydropyrene-7-carboxylate
+c0970	7,8-Dihydropyrene-8-carboxylate
+c1451	7-Ethyl-3-methyl-2-methoxy-2,3-dihydroindole
+c1446	7-Ethyl-N-methylindole
+c1443	7-Ethylindole
+c1035	7-Methyl-3-oxo-6-octenoyl-CoA
+c1104	7-Methyluric acid
+c1098	7-Methylxanthine
+c1008	7-Oxoheptanoate
+c1444	8-Ethylquinoline
+c1030	9&#945;-Hydroxy-4-androstene-3,17-dione
+c1011	9,10-Anthraquinone
+c0964	9,10-Dihydroxybenzo(a)pyrene
+c0541	9,10-Dihydroxyphenanthrene
+c0511	9,10-Phenanthrenequinone
+c0511	9,10-Phenanthrenequinone
+c1028	9,17-Dioxo-1,2,3,4,10,19-hexanorandrostan-5-oate
+c0389	9-Fluorenol
+c0390	9-Fluorenone
+c0454	9-Phenanthrol
+c0454	9-Phenanthrol
+c0454	9-Phenanthrol
+c0496	9-Phenanthryl-beta-D-glucopyranoside
+c0531	9-Phenanthryl-beta-D-glucuronide
+c0529	9-Phenanthrylsulfate
+c0680	<I>cis</I>-2-Methyl-5-isopropylhexa-2,5-dienal
+c0682	<I>cis</I>-2-Methyl-5-isopropylhexa-2,5-dienoic acid
+c0160	Acetaldehyde
+c0160	Acetaldehyde
+c0160	Acetaldehyde
+c0160	Acetaldehyde
+c0657	Acetanilide
+c0050	Acetate
+c0050	Acetate
+c0050	Acetate
+c0050	Acetate
+c0050	Acetate
+c0069	Acetoacetate
+c0069	Acetoacetate
+c0229	Acetoacetyl-CoA
+c0556	Acetone
+c0556	Acetone
+c0117	Acetophenone
+c0031	Acetyl-CoA
+c0031	Acetyl-CoA
+c0031	Acetyl-CoA
+c0031	Acetyl-CoA
+c0031	Acetyl-CoA
+c0031	Acetyl-CoA
+c0031	Acetyl-CoA
+c0113	Acrylate
+c0123	Adipate
+c0942	Adipyl-CoA
+c1441	Alachlor
+c1325	Aminohydroquinone
+c1403	Aminonitrofen
+c1015	Androst-4-ene-3,17-dione
+c1016	Androsta-1,4-diene-3,17-dione
+c0929	Aniline
+c0991	Anthracene
+c0993	Anthracene-1,2-diol
+c0002	Atrazine
+c1504	Atropine
+c1537	Benomyl
+c0279	Benzaldehyde
+c0950	Benzo(a)pyrene
+c0951	Benzo(a)pyrene-11,12-epoxide
+c0957	Benzo(a)pyrene-cis-4,5-dihydrodiol
+c0968	Benzo(a)pyrene-cis-7,8-dihydrodiol
+c0963	Benzo(a)pyrene-cis-9,10-dihydrodiol
+c0952	Benzo(a)pyrene-trans-11,12-dihydrodiol
+c0121	Benzoate
+c0121	Benzoate
+c0121	Benzoate
+c0121	Benzoate
+c1128	Benzothiazole
+c1129	Benzothiazole-2-sulfonate
+c0119	Benzoyl-CoA
+c0119	Benzoyl-CoA
+c0278	Benzyl alcohol
+c0764	Bisphenol A
+c0035	Butyrate
+c0023	Butyryl-CoA
+c0023	Butyryl-CoA
+c1094	Caffeine
+c0922	Carbamate
+c1538	Carbendazim
+c1285	Carbofuran
+c1286	Carbofuran-7-phenol
+c0131	Carbon Dioxide
+c0131	Carbon Dioxide
+c0131	Carbon Dioxide
+c0131	Carbon Dioxide
+c0131	Carbon Dioxide
+c0131	Carbon Dioxide
+c0131	Carbon Dioxide
+c0131	Carbon Dioxide
+c0131	Carbon Dioxide
+c0131	Carbon Dioxide
+c0131	Carbon Dioxide
+c0131	Carbon Dioxide
+c0131	Carbon Dioxide
+c0131	Carbon Dioxide
+c0369	Carbon Monoxide
+c0628	Carveol
+c0628	Carveol
+c0627	Carvone
+c0627	Carvone
+c0097	Catechol
+c0097	Catechol
+c0097	Catechol
+c0097	Catechol
+c0097	Catechol
+c0097	Catechol
+c0097	Catechol
+c0097	Catechol
+c0011	Chloral hydrate
+c0003	Chloroacetaldehyde
+c0007	Chloroacetate
+c0007	Chloroacetate
+c0105	Chlorobenzene
+c0544	Chlorohydroquinone
+c0961	Chrysene-4-carboxylate
+c0962	Chrysene-5-carboxylate
+c1166	Citrazinate
+c1026	Citronellal
+c1029	Citronellate
+c1013	Citronellol
+c1031	Citronellyl-CoA
+c0919	Coenzyme A
+c0032	Crotonoyl-CoA
+c0032	Crotonoyl-CoA
+c0163	Cyanuric acid
+c1510	Cyclohepta-1,3,5-trione
+c0214	Cyclohex-1,4-diene-1-carboxyl-CoA
+c0212	Cyclohex-1,5-diene-1-carboxyl-CoA
+c0215	Cyclohex-1-ene-1-carboxyl-CoA
+c0213	Cyclohex-2,5-diene-1-carboxyl-CoA
+c0941	Cyclohexane
+c0175	Cyclohexanol
+c0195	Cyclohexanone
+c0169	Deethylatrazine
+c0166	Deisopropylatrazine
+c0170	Deisopropyldeethylatrazine
+c0167	Deisopropylhydroxyatrazine
+c1465	Desmethyl malathion
+c1476	Dibutyl phthalate
+c0012	Dichloroacetate
+c0815	Didemethylisoproturon
+c1471	Diethyl 2-mercaptosuccinate
+c1436	Diethyl dithiophosphate
+c1466	Diethyl malate
+c1472	Diethyl succinate
+c0087	Diethylphosphoric acid
+c0085	Diethylthiophosphoric acid
+c0668	Dihydrocarvone
+c0027	Dihydrophloroglucinol
+c1468	Dimethyldithiophosphate
+c1461	Dimethylphosphate
+c1460	Dimethylthiophosphate
+c1188	Endosulfan
+c1202	Endosulfan diol
+c1206	Endosulfan ether
+c1204	Endosulfan hemisulfate
+c1209	Endosulfan hydroxycarboxylate
+c1208	Endosulfan hydroxyether
+c1207	Endosulfan lactone
+c1205	Endosulfan monoalcohol
+c1203	Endosulfan monoaldehyde
+c1189	Endosulfan sulfate
+c0038	Ethanol
+c0038	Ethanol
+c0920	Ethyl amine
+c1473	Ethyl succinate
+c0116	Ethylbenzene
+c1456	Ethylphosphate
+c1437	Ethylthiophosphate
+c0388	Fluorene
+c0122	Formaldehyde
+c0122	Formaldehyde
+c0122	Formaldehyde
+c0122	Formaldehyde
+c0122	Formaldehyde
+c0122	Formaldehyde
+c0106	Formate
+c0106	Formate
+c0106	Formate
+c0106	Formate
+c0106	Formate
+c0111	Fumarate
+c0111	Fumarate
+c0111	Fumarate
+c0111	Fumarate
+c0111	Fumarate
+c0751	Fumarylpyruvate
+c0006	Gallate
+c0325	Gentisate
+c0325	Gentisate
+c0227	Glutaconyl-CoA
+c0222	Glutaryl-CoA
+c0008	Glycolate
+c0014	Glyoxylate
+c0014	Glyoxylate
+c0014	Glyoxylate
+c0639	Hexahydro-1,3,5-trinitro-1,3,5-triazine
+c0642	Hexahydro-1,3,5-trinitroso-1,3,5-triazine
+c0641	Hexahydro-1,3-dinitroso-5-nitro-1,3,5-triazine
+c0640	Hexahydro-1-nitroso-3,5-dinitro-1,3,5-triazine
+c0108	Homogentisate
+c0108	Homogentisate
+c0108	Homogentisate
+c0091	Hydroquinone
+c0091	Hydroquinone
+c0091	Hydroquinone
+c0091	Hydroquinone
+c0161	Hydroxyatrazine
+c0315	Hydroxylaminobenzene
+c0645	Hydroxymethylnitramine
+c0812	Hydroxymonodemethylisoproturon
+c0383	Isobutyrate
+c0383	Isobutyrate
+c1033	Isohexenyl-glutaconyl-CoA
+c1161	Isoniazid
+c1173	Isonicotinamide
+c1164	Isonicotinate
+c1078	Isooctane
+c0670	Isopiperitenol
+c0671	Isopiperitenone
+c0656	Isopropylamine
+c0810	Isoproturon
+c1308	Isopyridoxal
+c0152	L-Lactate
+c0234	L-Tyrosine
+c0626	Limonene
+c0626	Limonene
+c1467	Malaoxon
+c1457	Malathion
+c1459	Malathion dicarboxylate
+c1458	Malathion monocarboxylate
+c0476	Maleamate
+c0476	Maleamate
+c0099	Maleylacetate
+c0099	Maleylacetate
+c0520	Methacrylate
+c0095	Methane
+c0132	Methanol
+c0515	Methyl tert-butyl ether
+c0137	Methylamine
+c0137	Methylamine
+c0643	Methylenedinitramine
+c1318	Methylmalonate semialdehyde
+c1462	Methylphosphate
+c1464	Methylthiophosphate
+c1477	Monobutyl phthalate
+c0811	Monodemethylisoproturon
+c1542	Monomethyl carbonate
+c0748	Mordant Yellow 3
+c0632	Myrtenal
+c0633	Myrtenate
+c0630	Myrtenol
+c1155	N,N`-Dimethylurea
+c1455	N-(2,6-Diethylphenyl)-2-hydroxyacetamide
+c1452	N-(2,6-Diethylphenyl)-methyleneamine
+c1170	N-Acetylisoniazid
+c1539	N-Butylcarbamate
+c1484	N-Formylmaleamate
+c0654	N-Isopropylacetanilide
+c0162	N-Isopropylammelide
+c0655	N-Isopropylaniline
+c1176	N-Methylurea
+c1404	N-acetylaminonitrofen
+c0333	Naphthalene
+c0317	Naphthalene-1,6-disulfonate
+c0320	Naphthalene-1-sulfonate
+c0319	Naphthalene-2,6-disulfonate
+c0321	Naphthalene-2-sulfonate
+c1112	Naphthyl-2-hydroxymethyl-succinyl-CoA
+c1109	Naphthyl-2-methyl-succinate
+c1110	Naphthyl-2-methyl-succinyl-CoA
+c1111	Naphthyl-2-methylene-succinyl-CoA
+c1113	Naphthyl-2-oxomethyl-succinyl-CoA
+c0649	Nitramine
+c0313	Nitrobenzene
+c1402	Nitrofen
+c0314	Nitrosobenzene
+c0650	Nitrous oxide
+c1506	Nortropine
+c0017	Oxalate
+c1475	Oxaloacetate
+c1475	Oxaloacetate
+c1102	Paraxanthine
+c0667	Perillic acid
+c0665	Perillyl alcohol
+c0666	Perillyl aldehyde
+c0677	Perillyl-CoA
+c0431	Phenanthrene
+c0431	Phenanthrene
+c0431	Phenanthrene
+c0449	Phenanthrene-1,2-oxide
+c0449	Phenanthrene-1,2-oxide
+c0449	Phenanthrene-1,2-oxide
+c0528	Phenanthrene-3,4-dihydrodiolsulfate conjugate
+c0492	Phenanthrene-3,4-oxide
+c0492	Phenanthrene-3,4-oxide
+c0844	Phenanthrene-4,5-dicarboxylate
+c0845	Phenanthrene-4-carboxylate
+c0530	Phenanthrene-9,10-dihydrodiolsulfate conjugate
+c0452	Phenanthrene-9,10-oxide
+c0452	Phenanthrene-9,10-oxide
+c0452	Phenanthrene-9,10-oxide
+c0210	Phenylacetaldehyde
+c0210	Phenylacetaldehyde
+c0211	Phenylacetate
+c0211	Phenylacetate
+c0211	Phenylacetate
+c1494	Phenylacetyl-CoA
+c0026	Phloroglucinol
+c1432	Phorate
+c1435	Phorate sulfone
+c1433	Phorate sulfoxide
+c0693	Phosphate
+c0693	Phosphate
+c0181	Phthalate
+c0181	Phthalate
+c0181	Phthalate
+c0181	Phthalate
+c1252	Phthalate 3,4-cis-dihydrodiol
+c0182	Phthalate-4,5-cis-dihydrodiol
+c0218	Pimeloyl-CoA
+c0629	Pinocarveol
+c0631	Pinocarvone
+c0915	Pivalyl-CoA
+c0207	Propanal
+c0277	Propanoate
+c0363	Propanoyl-CoA
+c0363	Propanoyl-CoA
+c0363	Propanoyl-CoA
+c0841	Pyrene
+c0850	Pyrene-1,2-oxide
+c0854	Pyrene-1,6-dione
+c0857	Pyrene-1,8-dione
+c0847	Pyrene-4,5-dione
+c0848	Pyrene-4,5-oxide
+c1163	Pyridine-4-carboxaldehyde
+c1261	Pyridoxal
+c1256	Pyridoxamine
+c1302	Pyridoxine
+c0025	Pyrogallol
+c0159	Pyruvate
+c0159	Pyruvate
+c0159	Pyruvate
+c0159	Pyruvate
+c0159	Pyruvate
+c0159	Pyruvate
+c0159	Pyruvate
+c0159	Pyruvate
+c0159	Pyruvate
+c0159	Pyruvate
+c0159	Pyruvate
+c0159	Pyruvate
+c0159	Pyruvate
+c0159	Pyruvate
+c0159	Pyruvate
+c0159	Pyruvate
+c0159	Pyruvate
+c0265	Resorcinol
+c1469	S-(Diethylsuccinyl)-O-methylphosphorothioate
+c1470	S-(Diethylsuccinyl)-phosphorothioate
+c1454	Saccharin
+c0337	Salicylaldehyde
+c0043	Salicylate
+c0043	Salicylate
+c0115	Styrene
+c0115	Styrene
+c0224	Styrene cis-glycol
+c0037	Styrene oxide
+c0312	Succinate
+c0312	Succinate
+c0312	Succinate
+c0312	Succinate
+c0312	Succinate
+c0311	Succinic semialdehyde
+c0311	Succinic semialdehyde
+c0311	Succinic semialdehyde
+c0311	Succinic semialdehyde
+c0344	Succinyl-CoA
+c0344	Succinyl-CoA
+c0344	Succinyl-CoA
+c0184	Terephthalate
+c0184	Terephthalate
+c0185	Terephthalate-1,2-cis-dihydrodiol
+c1014	Testosterone
+c0986	Tetralin
+c1095	Theobromine
+c1463	Thiophosphate
+c0114	Toluene
+c0283	Toluene-cis-1,2-dihydrodiol
+c0016	Trichloroacetate
+c0015	Trichloroethanol
+c0010	Trichloroethylene epoxide
+c1509	Tropate
+c1505	Tropine
+c0194	Vanillate
+c0193	Vanillin
+c0588	Vanillyl alcohol
+c1099	Xanthine
+c0634	alpha-Pinene
+c0679	alpha-Pinene oxide
+c0669	alpha-Terpineol
+c0139	beta-1,2,3,4,5,6-Hexachlorocyclohexane
+c0502	bis(4`-Chlorophenyl)acetate (DDA)
+c0503	bis(4`-Chlorophenyl)methane (DDM)
+c0644	bis(Hydroxymethyl)nitramine
+c1317	cis,cis-2,4-Dihydroxy-5-methyl-6-oxo-2,4-hexadienoate
+c0284	cis,cis-2-Hydroxy-6-oxohept-2,4-dienoate
+c0262	cis,cis-4-Hydroxymuconic semialdehyde
+c0586	cis,cis-Muconate
+c0992	cis-1,2-Dihydroanthracene-1,2-diol
+c1040	cis-1,2-Dihydroxy-1,2,5,6,7,8-hexahydronaphthalene
+c0706	cis-1,2-Dihydroxy-1,2-dihydro-7-hydroxymethylnaphthalene
+c0704	cis-1,2-Dihydroxy-1,2-dihydro-7-methylnaphthalene
+c0714	cis-1,2-Dihydroxy-1,2-dihydro-8-methylnaphthalene
+c0334	cis-1,2-Dihydroxy-1,2-dihydronaphthalene
+c0280	cis-1,6-Dihydroxy-2,4-cyclohexadiene-1-carboxylic acid
+c0419	cis-2,3-Dihydrodiol DDT
+c0379	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate
+c0273	cis-2,3-Dihydroxy-2,3-dihydroethylbenzene
+c0910	cis-2-Hydroxy-3-chloropenta-2,4-dienone
+c0102	cis-2-Hydroxypenta-2,4-dienoate
+c0102	cis-2-Hydroxypenta-2,4-dienoate
+c0102	cis-2-Hydroxypenta-2,4-dienoate
+c0102	cis-2-Hydroxypenta-2,4-dienoate
+c0102	cis-2-Hydroxypenta-2,4-dienoate
+c0102	cis-2-Hydroxypenta-2,4-dienoate
+c0885	cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA
+c0309	cis-2-Oxohept-3-ene-1,7-dioate
+c0434	cis-3,4-Dihydroxy-3,4-dihydrophenanthrene
+c0434	cis-3,4-Dihydroxy-3,4-dihydrophenanthrene
+c0434	cis-3,4-Dihydroxy-3,4-dihydrophenanthrene
+c0846	cis-3,4-Phenanthrenedihydrodiol-4-carboxylate
+c0842	cis-4,5-Dihydroxy-4,5-dihydropyrene
+c0994	cis-4-(2-Hydroxynaph-3-yl)-2-oxobut-3-enoate
+c0969	cis-4-(7-Hydroxypyren-8-yl)-2-oxobut-3-enoate
+c0965	cis-4-(8-Hydroxypyren-7-yl)-2-oxobut-3-enoate
+c0749	cis-4-Amino-6-carboxy-2-oxo-hexa-3,5-dienoate
+c0307	cis-5-Carboxymethyl-2-oxohex-3-ene-1,6-dioate
+c1010	cis-9,10-Dihydroanthracene-9,10-diol
+c0386	cis-Acetylacrylate
+c1168	cis-Aconitamide
+c1169	cis-Aconitate
+c1032	cis-Geranyl-CoA
+c1540	n-Butylamine
+c0829	n-Hexane
+c0251	o-Methylbenzoate
+c0248	o-Xylene
+c9999	p-Acetamidocatechol
+c1405	p-Acetamidophenol
+c0090	p-Aminophenol
+c0261	p-Benzoquinone
+c0378	p-Cumate
+c0376	p-Cumic alcohol
+c0377	p-Cumic aldehyde
+c0375	p-Cymene
+c0200	p-Methylbenzyl alcohol
+c0086	p-Nitrophenol
+c0086	p-Nitrophenol
+c0201	p-Tolualdehyde
+c0202	p-Toluate
+c0083	p-Xylene
+c0516	tert-Butyl alcohol
+c0516	tert-Butyl alcohol
+c0903	tert-Butyl formate
+c0306	trans,cis-5-Carboxymethyl-2-hydroxymuconate
+c0305	trans,cis-5-Carboxymethyl-2-hydroxymuconate semialdehyde
+c0497	trans-1,2-Dihydrodiolphenanthrene
+c0497	trans-1,2-Dihydrodiolphenanthrene
+c0291	trans-2-Chlorodienelactone
+c0447	trans-2`-Carboxybenzalpyruvate
+c0436	trans-4-(1`-Hydroxynaphth-2`-yl)-2-oxobut-3-enoate
+c0146	trans-4-Carboxymethylenebut-2-en-4-olide
+c0453	trans-9(S),10(S)-Dihydrodiolphenanthrene
+c0453	trans-9(S),10(S)-Dihydrodiolphenanthrene
+c0453	trans-9(S),10(S)-Dihydrodiolphenanthrene
+c0336	trans-o-Hydroxybenzylidenepyruvate
+c0501	unsym-bis(4`-Chlorophenyl)ethylene (DDNU)

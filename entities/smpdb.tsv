@@ -1,0 +1,1401 @@
+HMDB0011644	(24R)-Cholest-5-ene-3-beta,7-alpha,24-triol
+HMDB0003948	(2E)-Decenoyl-CoA
+HMDB0003712	(2E)-Dodecenoyl-CoA
+HMDB0003949	(2E)-Octenoyl-CoA
+HMDB0003946	(2E)-Tetradecenoyl-CoA
+HMDB0061369	(5-L-Glutamyl)-L-amino acid
+HMDB0060699	(E)-2-Hydroxy-N-desmethyldoxepin
+HMDB0060630	(E)-2-hydroxydoxepin
+HMDB0000011	(R)-3-Hydroxybutyric acid
+HMDB0010725	(R)-3-Hydroxydecanoic acid
+HMDB0010718	(R)-3-Hydroxyhexanoic acid
+HMDB0010722	(R)-3-Hydroxyoctanoic acid
+HMDB0001451	(R)-lipoic acid
+HMDB0012130	(S)-2,3,4,5-Tetrahydropiperidine-2-carboxylate
+HMDB0001188	(S)-2,3-Epoxysqualene
+HMDB0003932	(S)-3-Hydroxyhexadecanoyl-CoA
+HMDB0000023	(S)-3-Hydroxyisobutyric acid
+HMDB0001052	(S)-3-Hydroxyisobutyryl-CoA
+HMDB0001090	(S)-5-Diphosphomevalonic acid
+HMDB0003938	(S)-Hydroxydecanoyl-CoA
+HMDB0003942	(S)-Hydroxyhexanoyl-CoA
+HMDB0013640	(S)-Hydroxyoctadecanoyl-CoA
+HMDB0003940	(S)-Hydroxyoctanoyl-CoA
+HMDB0002217	(S)-Methylmalonic acid semialdehyde
+HMDB0002166	(S)-b-aminoisobutyric acid
+HMDB0061362	1,2-diacylglycerol
+HMDB0002123	1,3,7-Trimethyluric acid
+HMDB0000002	1,3-Diaminopropane
+HMDB0013593	1,4-Dithiothreitol
+HMDB0011103	1,7-Dimethyluric acid
+HMDB0060565	1-Hydroxyibuprofen
+HMDB0060659	1-Methyl-4-nitroimidazole
+HMDB0000898	1-Methylhistamine
+HMDB0000001	1-Methylhistidine
+HMDB0000699	1-Methylnicotinamide
+HMDB0003099	1-Methyluric acid
+HMDB0010738	1-Methylxanthine
+HMDB0003850	1-Phosphatidyl-1D-myo-inositol 3-phosphate
+HMDB0006953	1-Phosphatidyl-D-myo-inositol
+HMDB0006875	1-Pyrroline-2-carboxylic acid
+HMDB0002234	1-Pyrroline-4-hydroxy-2-carboxylate
+HMDB0001301	1-Pyrroline-5-carboxylic acid
+HMDB0061333	1-alkyl-2-acylglycerol
+HMDB0061332	1-alkyl-2-acylglycerol 3 phosphate(18:0/20:4)
+HMDB0061334	1-alkyl-2-acylglycerol 3 phosphoethanolamine(18:0/20:4)
+HMDB0013642	1-hydroxy-2-Oxopropyl tetrahydropterin
+HMDB0061361	1-phosphatidyl-1D-myo-inositol 4,5-biphosphate
+HMDB0061341	1-phosphatidyl-1D-myo-inositol 4-phosphate
+HMDB0060568	10,11-Dihydroxycarbamazepine
+HMDB0000972	10-Formyltetrahydrofolate
+HMDB0060676	10-Hydroxycarbazepine
+HMDB0004684	11,12,15-THETA
+HMDB0004694	11,14,15-THETA
+HMDB0004242	11-Dehydro-thromboxane B2
+HMDB0004029	11-Dehydrocorticosterone
+HMDB0011137	11-Epi-PGF2a
+HMDB0004693	11H-14,15-EETA
+HMDB0006760	11b,17a,21-Trihydroxypreg-nenolone
+HMDB0006754	11b,21-Dihydroxy-3,20-oxo-5b-pregnan-18-al
+HMDB0006757	11b,21-Dihydroxy-5b-pregnane-3,20-dione
+HMDB0006773	11b-Hydroxyandrost-4-ene-3,17-dione
+HMDB0004031	11b-Hydroxyprogesterone
+HMDB0004243	12(S)-HPETE
+HMDB0013911	12-Hydroxynevirapine
+HMDB0060705	12-Hydroxynevirapine glucuronide
+HMDB0013633	12-KETE
+HMDB0004234	12-Keto-leukotriene B4
+HMDB0002265	14,15-DiHETrE
+HMDB0004264	14,15-Epoxy-5,8,11-eicosatrienoic acid
+HMDB0003876	15(S)-HETE
+HMDB0004244	15(S)-HPETE
+HMDB0005079	15-Deoxy-d-12,14-PGJ2
+HMDB0005050	15H-11,12-EETA
+HMDB0004680	16(R)-HETE
+HMDB0000335	16a-Hydroxyestrone
+HMDB0000374	17-Hydroxyprogesterone
+HMDB0006224	17-beta-Estradiol-3-glucuronide
+HMDB0006764	17a,20a-Dihydroxycholesterol
+HMDB0006758	17a,21-Dihydroxy-5b-pregnane-3,11,20-trione
+HMDB0000363	17a-Hydroxypregnenolone
+HMDB0006762	17alpha,21-Dihydroxypregnenolone
+HMDB0000319	18-Hydroxycorticosterone
+HMDB0011136	19(S)-HETE
+HMDB0003955	19-Hydroxyandrost-4-ene-3,17-dione
+HMDB0006769	19-Hydroxytestosterone
+HMDB0006768	19-Oxoandrost-4-ene-3,17-dione
+HMDB0003959	19-Oxotestosterone
+HMDB0001187	1D-Myo-inositol 1,3,4,6-tetrakisphosphate
+HMDB0006234	1D-Myo-inositol 1,3-bisphosphate
+HMDB0000968	1D-Myo-inositol 1,4-bisphosphate
+HMDB0006235	1D-Myo-inositol 3,4-bisphosphate
+HMDB0006814	1D-myo-Inositol 3-phosphate
+HMDB0001044	2'-Deoxyguanosine 5'-monophosphate
+CSBG007	2'-O-Acetyl adenosine-5-diphosphoribose
+HMDB0060673	2,3-Dihydroxycarbamazepine
+HMDB0061377	2,3-Dinor-8iso prostaglandin F1alpha
+HMDB0001294	2,3-Diphosphoglyceric acid
+HMDB0060723	2,3-diene-Valproic acid-CoA
+HMDB0061381	2,4-diene-Valproic acid-CoA
+HMDB0006823	2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine
+HMDB0006821	2,5-Diaminopyrimidine nucleoside triphosphate
+HMDB0060677	2,6-Dimethylaniline
+HMDB0001330	2-Amino-3-carboxymuconic acid semialdehyde
+HMDB0060680	2-Amino-3-methylbenzoate
+HMDB0003609	2-Aminoacrylic acid
+HMDB0001123	2-Aminobenzoic acid
+HMDB0001280	2-Aminomuconic acid semialdehyde
+HMDB0013859	2-Dechloroethylifosfamide
+HMDB0060672	2-Ethyl-5-methyl-3,3-diphenyl-1-pyrroline
+HMDB0006820	2-Hexaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone
+HMDB0006819	2-Hexaprenyl-3-methyl-6-methoxy-1,4 benzoquinone
+HMDB0006818	2-Hexaprenyl-6-methoxy-1,4-benzoquinone
+HMDB0006817	2-Hexaprenyl-6-methoxyphenol
+HMDB0006915	2-Hydroxy-3-(4-hydroxyphenyl)propenoic acid
+HMDB0060716	2-Hydroxy-desipramine glucuronide
+HMDB0060717	2-Hydroxy-imipramine glucuronide
+CSBG018	2-Hydroxybutanedioate
+HMDB0000008	2-Hydroxybutyric acid
+HMDB0060651	2-Hydroxycarbamazepine
+HMDB0060718	2-Hydroxyclomipramine
+HMDB0000343	2-Hydroxyestrone
+HMDB0060670	2-Hydroxyfelbamate
+HMDB0059655	2-Hydroxyglutarate
+HMDB0060920	2-Hydroxyibuprofen
+HMDB0060652	2-Hydroxyiminostilbene
+HMDB0013912	2-Hydroxynevirapine
+HMDB0060720	2-Hydroxynevirapine glucuronide
+HMDB0001295	2-Hydroxyphytanoyl-CoA
+HMDB0000005	2-Ketobutyric acid
+HMDB0000010	2-Methoxyestrone
+HMDB0004482	2-Methoxyestrone 3-glucuronide
+HMDB0006866	2-Methyl-1-hydroxypropyl-ThPP
+HMDB0006954	2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate
+HMDB0001356	2-Methyl-3-hydroxybutyryl-CoA
+HMDB0001157	2-Methylacetoacetyl-CoA
+HMDB0001041	2-Methylbutyryl-CoA
+HMDB0001553	2-Oxo-4-methylthiobutanoic acid
+HMDB0004225	2-Oxoarginine
+CSBG014	2-Oxobutanedioate
+HMDB0013929	2-Oxoclopidogrel
+HMDB0060351	2-Phenyl-1,3-propanediol monocarbamate
+HMDB0003391	2-Phospho-D-glyceric acid
+HMDB0060682	2-Propyl-2,4-pentadienoic acid
+HMDB0060684	2-Propylglutaric acid
+HMDB0061239	2-Propylsuccinic acid
+HMDB0013902	2-ene-Valproic acid
+HMDB0060714	2-ene-Valproic acid CoA
+HMDB0060931	2-ethyl-1,5-dimethyl-3,3-diphenylpyrrolinium (EDDP)
+HMDB0061329	2-hydroxyclomipramine glucuronide
+HMDB0060992	2-hydroxydesipramine
+HMDB0061228	2-hydroxydesmethyl clomipramine
+HMDB0061229	2-hydroxydesmethyl clomipramine glucuronide
+HMDB0060952	2-hydroxyimipramine
+HMDB0060683	2-n-Propyl-4-oxopentanoic acid
+HMDB0006059	20-Carboxy-leukotriene B4
+HMDB0001509	20-Hydroxy-leukotriene B4
+HMDB0005998	20-Hydroxyeicosatetraenoic acid
+HMDB0006763	20a,22b-Dihydroxycholesterol
+HMDB0006283	20alpha-Hydroxycholesterol
+HMDB0004030	21-Deoxycortisol
+HMDB0006756	21-Hydroxy-5b-pregnane-3,11,20-trione
+HMDB0004026	21-Hydroxypregnenolone
+HMDB0004035	22b-Hydroxycholesterol
+HMDB0006839	24,25-Dihydrolanosterol
+HMDB0001419	24-Hydroxycholesterol
+HMDB0006247	25-Hydroxycholesterol
+HMDB0001231	27-Deoxy-5b-cyprinol
+HMDB0002103	27-Hydroxycholesterol
+HMDB0061344	2Fe-2S
+HMDB0012456	3 alpha,7 alpha,24-Trihydroxy-5beta-cholestanoyl-CoA
+HMDB0012455	3 alpha,7 alpha,26-Trihydroxy-5beta-cholestane
+HMDB0012453	3 beta-Hydroxy-5-cholestenoate
+HMDB0003540	3'-AMP
+HMDB0001336	3,4-Dihydroxybenzeneacetic acid
+HMDB0006242	3,4-Dihydroxymandelaldehyde
+HMDB0001866	3,4-Dihydroxymandelic acid
+HMDB0003791	3,4-Dihydroxyphenylacetaldehyde
+HMDB0000318	3,4-Dihydroxyphenylglycol
+HMDB0003474	3,5-Diiodo-L-tyrosine
+HMDB0001982	3,7-Dimethyluric acid
+HMDB0003911	3-Aminoisobutanoic acid
+HMDB0001106	3-Aminopropionaldehyde
+HMDB0060366	3-Carbamoyl-2-phenylpropionaldehyde
+HMDB0060367	3-Carbamoyl-2-phenylpropionic acid
+HMDB0013858	3-Dechloroethylifosfamide
+HMDB0001480	3-Dehydrosphinganine
+HMDB0001063	3-Hexaprenyl-4,5-Dihydroxybenzoic acid
+HMDB0000977	3-Hexaprenyl-4-hydroxy-5-methoxybenzoic acid
+HMDB0006816	3-Hexaprenyl-4-hydroxybenzoic acid
+HMDB0006955	3-Hydroxy-2-methylpyridine-4,5-dicarboxylate
+HMDB0001375	3-Hydroxy-3-methylglutaryl-CoA
+HMDB0001422	3-Hydroxy-N6,N6,N6-trimethyl-L-lysine
+HMDB0001476	3-Hydroxyanthranilic acid
+HMDB0000357	3-Hydroxybutyric acid
+HMDB0001166	3-Hydroxybutyryl-CoA
+HMDB0060653	3-Hydroxycarbamazepine
+HMDB0060921	3-Hydroxyibuprofen
+HMDB0006870	3-Hydroxyisovaleryl-CoA
+HMDB0060655	3-Hydroxylidocaine
+HMDB0060678	3-Hydroxymonoethylglycinexylidide
+HMDB0013914	3-Hydroxynevirapine
+HMDB0060743	3-Hydroxynevirapine glucuronide
+HMDB0006807	3-Hydroxypropionyl-CoA
+HMDB0013899	3-Hydroxyvalproic acid
+HMDB0060744	3-Hydroxyvalproic acid CoA
+HMDB0006838	3-Keto-4-methylzymosterol
+HMDB0002127	3-Mercaptolactic acid
+HMDB0001368	3-Mercaptopyruvic acid
+HMDB0004061	3-Methoxy-4-hydroxyphenylglycolaldehyde
+HMDB0000022	3-Methoxytyramine
+HMDB0006865	3-Methyl-1-hydroxybutyl-ThPP
+HMDB0000491	3-Methyl-2-oxovaleric acid
+HMDB0001493	3-Methylcrotonyl-CoA
+HMDB0001057	3-Methylglutaconyl-CoA
+HMDB0000479	3-Methylhistidine
+HMDB0061718	3-Methylthiofentanyl
+HMDB0000024	3-O-Sulfogalactosylceramide (d18:1/24:0)
+HMDB0010724	3-Oxodecanoic acid
+HMDB0003937	3-Oxododecanoyl-CoA
+HMDB0010717	3-Oxohexanoic acid
+HMDB0003943	3-Oxohexanoyl-CoA
+HMDB0006498	3-Oxooctadecanoyl-CoA
+HMDB0010721	3-Oxooctanoic acid
+HMDB0003941	3-Oxooctanoyl-CoA
+HMDB0003935	3-Oxotetradecanoyl-CoA
+HMDB0060685	3-Oxovalproic acid
+HMDB0011104	3-Phosphoadenylylselenate
+HMDB0000807	3-Phosphoglyceric acid
+HMDB0000996	3-Sulfinoalanine
+HMDB0001405	3-Sulfinylpyruvic acid
+HMDB0060740	3-ene-Valproic acid CoA
+HMDB0061342	3-ene-valproic acid
+HMDB0060749	3-oxo-Valproic acid CoA
+HMDB0006753	3a,11b,21-Trihydroxy-20-oxo-5b-pregnan-18-al
+HMDB0006755	3a,21-Dihydroxy-5b-pregnane-11,20-dione
+HMDB0006890	3a,7a,12a,24-Tetrahydroxy-5b-cholestanoyl-CoA
+HMDB0006891	3a,7a,12a-Trihydroxy-5b-24-oxocholestanoyl-CoA
+HMDB0006889	3a,7a,12a-Trihydroxy-5b-cholest-24-enoyl-CoA
+HMDB0003533	3a,7a,12a-Trihydroxy-5b-cholestan-26-al
+HMDB0006895	3a,7a-Dihydroxy-5b-cholest-24-enoyl-CoA
+HMDB0006894	3a,7a-Dihydroxy-5b-cholestan-26-al
+HMDB0006893	3a,7a-Dihydroxy-5b-cholestane
+HMDB0002159	3a,7a-Dihydroxy-5b-cholestanoyl-CoA
+HMDB0006759	3a-Hydroxy-5b-pregnane-20-one
+HMDB0000601	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoic acid
+HMDB0000359	3alpha,7alpha-Dihydroxycoprostanic acid
+HMDB0012454	3beta,7alpha-Dihydroxy-5-cholestenoate
+HMDB0001117	4'-Phosphopantothenoylcysteine
+HMDB0001286	4,4-Dimethyl-5a-cholesta-8,24-dien-3-b-ol
+HMDB0006840	4,4-Dimethyl-5a-cholesta-8-en-3b-ol
+HMDB0001023	4,4-Dimethylcholesta-8,14,24-trienol
+HMDB0004077	4,6-Dihydroxyquinoline
+HMDB0006202	4,8 Dimethylnonanoyl carnitine
+HMDB0011604	4,8-Dimethylnonanoyl-CoA
+HMDB0004083	4-(2-Amino-3-hydroxyphenyl)-2,4-dioxobutanoic acid
+HMDB0000978	4-(2-Aminophenyl)-2,4-dioxobutanoic acid
+HMDB0060759	4-Carboxynevirapine
+HMDB0001268	4-Fumarylacetoacetic acid
+HMDB0060387	4-Glutathionyl cyclophosphamide
+HMDB0060681	4-Hydroxy-2,6-dimethylaniline
+HMDB0002070	4-Hydroxy-2-oxoglutaric acid
+HMDB0060389	4-Hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one
+HMDB0002273	4-Hydroxy-L-glutamic acid
+HMDB0000500	4-Hydroxybenzoic acid
+HMDB0013856	4-Hydroxycyclophosphamide
+HMDB0013861	4-Hydroxyifosfamide
+HMDB0000707	4-Hydroxyphenylpyruvic acid
+HMDB0060769	4-Hydroxyphenytoin glucuronide
+HMDB0000725	4-Hydroxyproline
+HMDB0006254	4-Hydroxyretinoic acid
+HMDB0060530	4-Hydroxytamoxifen
+HMDB0061123	4-Hydroxytamoxifen sulfate
+HMDB0061124	4-Hydroxytamoxifen-N-glucuronide
+HMDB0061125	4-Hydroxytamoxifen-O-glucuronide
+HMDB0013900	4-Hydroxyvalproic acid
+HMDB0001014	4-Imidazolone-5-propionic acid
+HMDB0060686	4-Ketocyclophosphamide
+HMDB0060690	4-Ketoifosfamide
+HMDB0001318	4-Methylpentanal
+HMDB0012329	4-Oxoretinol
+HMDB0000017	4-Pyridoxic acid
+HMDB0001345	4-Trimethylammoniobutanal
+HMDB0001161	4-Trimethylammoniobutanoic acid
+HMDB0013897	4-ene-Valproic acid
+HMDB0060762	4-ene-Valproic acid CoA
+HMDB0006285	4-oxo-Retinoic acid
+HMDB0061380	4Fe-4S
+HMDB0002281	4a-Hydroxytetrahydrobiopterin
+HMDB0001217	4a-Methylzymosterol
+HMDB0006927	4a-Methylzymosterol-4-carboxylic acid
+HMDB0001427	5'-Hydroxycotinine
+HMDB0001173	5'-Methylthioadenosine
+HMDB0001308	5'-Phosphoribosyl-N-formylglycinamide
+HMDB0001354	5,10-Methenyltetrahydrofolic acid
+HMDB0001533	5,10-Methylene-THF
+HMDB0002343	5,6-DHET
+HMDB0004058	5,6-Dihydroxyindole
+HMDB0001253	5,6-Dihydroxyindole-2-carboxylic acid
+HMDB0002190	5,6-Epoxy-8,11,14-eicosatrienoic acid
+HMDB0061111	5,6-Epoxytetraene
+HMDB0004400	5-Acetylamino-6-amino-3-methyluracil
+HMDB0011105	5-Acetylamino-6-formylamino-3-methyluracil
+HMDB0006272	5-Amino-2-oxopentanoic acid
+HMDB0001235	5-Aminoimidazole ribonucleotide
+HMDB0003192	5-Aminoimidazole-4-carboxamide
+HMDB0001149	5-Aminolevulinic acid
+HMDB0006229	5-Diphosphoinositol pentakisphosphate
+HMDB0001534	5-Formiminotetrahydrofolic acid
+HMDB0011134	5-HETE
+HMDB0011135	5-HPETE
+HMDB0000472	5-Hydroxy-L-tryptophan
+HMDB0004086	5-Hydroxy-N-formylkynurenine
+HMDB0004073	5-Hydroxyindoleacetaldehyde
+HMDB0000763	5-Hydroxyindoleacetic acid
+HMDB0004076	5-Hydroxykynurenamine
+HMDB0012819	5-Hydroxykynurenine
+HMDB0013898	5-Hydroxyvalproic acid
+HMDB0010217	5-KETE
+HMDB0004195	5-L-Glutamyl-taurine
+HMDB0004096	5-Methoxyindoleacetate
+HMDB0001396	5-Methyltetrahydrofolic acid
+HMDB0000963	5-Methylthioribose 1-phosphate
+HMDB0060400	5-Phenyl-1,3-oxazinane-2,4-dione
+HMDB0001128	5-Phosphoribosylamine
+HMDB0001227	5-Thymidylic acid
+HMDB0006273	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate
+HMDB0001457	5-b-Cholestane-3a ,7a ,12a-triol
+HMDB0006841	5a-Cholest-8-en-3b-ol
+HMDB0006842	5a-Cholesta-7,24-dien-3b-ol
+HMDB0003759	5a-Pregnane-3,20-dione
+HMDB0006888	5b-Cyprinol sulfate
+HMDB0006770	5b-Dihydrotestosterone
+HMDB0003826	6,7-Dimethyl-8-(1-D-ribityl)lumazine
+HMDB0004081	6-Hydroxymelatonin
+HMDB0002886	6-Keto-prostaglandin F1a
+HMDB0004241	6-Ketoprostaglandin E1
+HMDB0002065	6-Lactoyltetrahydropterin
+HMDB0061269	6-Mercaptopurine riboside
+HMDB0060412	6-Methylmercaptopurine
+HMDB0061339	6-Methylthiopurine 5'-monophosphate ribonucleotide
+HMDB0060788	6-O-Desmethyl-mycophenolic acid
+HMDB0001316	6-Phosphogluconic acid
+HMDB0001127	6-Phosphonoglucono-D-lactone
+HMDB0060415	6-Thioguanosine monophosphate
+HMDB0060416	6-Thioinosine-5'-monophosphate
+HMDB0061338	6-methylmercaptopurine riboside
+HMDB0060601	6-thiouric acid
+HMDB0012459	7 alpha,26-Dihydroxy-4-cholesten-3-one
+HMDB0002275	7,8-Dihydroneopterin
+HMDB0000032	7-Dehydrocholesterol
+HMDB0003896	7-Dehydrodesmosterol
+HMDB0004256	7-Hydroxy-6-methyl-8-ribityl lumazine
+HMDB0011107	7-Methyluric acid
+HMDB0001991	7-Methylxanthine
+HMDB0006280	7-a,25-Dihydroxycholesterol
+HMDB0006281	7-a,27-Dihydroxycholesterol
+HMDB0006887	7a,12a-Dihydroxy-5b-cholestan-3-one
+HMDB0002197	7a,12a-Dihydroxy-cholestene-3-one
+HMDB0006892	7a-Hydroxy-5b-cholestan-3-one
+HMDB0001993	7a-Hydroxy-cholestene-3-one
+HMDB0001496	7a-Hydroxycholesterol
+HMDB0012458	7alpha-Hydroxy-3-oxo-4-cholestenoate
+HMDB0002311	8,9-DiHETrE
+HMDB0002232	8,9-Epoxyeicosatrienoic acid
+HMDB0002027	8-Dehydrocholesterol
+HMDB0004679	8-HETE
+HMDB0013913	8-Hydroxynevirapine
+HMDB0061130	8-Hydroxynevirapine glucuronide
+HMDB0060804	8-Hydroxythioguanine
+HMDB0004659	8-Isoprostane
+HMDB0013639	8-[(Aminomethyl)sulfanyl]-6-sulfanyloctanoic acid
+HMDB0001517	AICAR
+HMDB0060661	APC
+HMDB0015324	Acebutolol
+HMDB0000990	Acetaldehyde
+HMDB0001859	Acetaminophen
+HMDB0060559	Acetaminophen cystein
+HMDB0010316	Acetaminophen glucuronide
+HMDB0000042	Acetic acid
+HMDB0000060	Acetoacetic acid
+HMDB0001484	Acetoacetyl-CoA
+HMDB0001659	Acetone
+HMDB0006880	Acetyl adenylate
+HMDB0001206	Acetyl-CoA
+HMDB0004259	Acetyl-N-formyl-5-methoxykynurenamine
+HMDB0000895	Acetylcholine
+HMDB0001494	Acetylphosphate
+HMDB0041822	Acrolein
+HMDB0031647	Acrylic acid
+HMDB0002307	Acrylyl-CoA
+HMDB0061272	Active Metabolite of Clopidogrel
+HMDB0061273	Active Metabolite of Esomeprazole
+HMDB0061276	Active Metabolite of Lansoprazole
+HMDB0061277	Active Metabolite of Pantoprazole
+HMDB0061278	Active Metabolite of Rabeprazole
+HMDB0000034	Adenine
+HMDB0000050	Adenosine
+HMDB0000061	Adenosine 3',5'-diphosphate
+HMDB0001341	Adenosine diphosphate
+HMDB0001178	Adenosine diphosphate ribose
+HMDB0000045	Adenosine monophosphate
+HMDB0001003	Adenosine phosphosulfate
+HMDB0000538	Adenosine triphosphate
+HMDB0002086	Adenosylcobalamin
+HMDB0000536	Adenylsuccinic acid
+HMDB0004112	Adenylylselenate
+HMDB0006772	Adrenosterone
+HMDB0060693	Alcoifosfamide
+HMDB0060588	Aldoifosfamide
+HMDB0060433	Aldophosphamide
+HMDB0000037	Aldosterone
+HMDB0001915	Alendronic acid
+HMDB0014940	Alfentanil
+HMDB0011618	All-trans-13,14-dihydroretinol
+HMDB0001263	Allysine
+HMDB0003514	Alpha-D-Glucose 1,6-bisphosphate
+HMDB0060808	Alpha-Hydroxy-tamoxifen-O-glucuronide
+HMDB0015004	Alprenolol
+HMDB0015631	Alvimopan
+HMDB0014622	Amikacin
+HMDB0002134	Aminoacetone
+HMDB0000510	Aminoadipic acid
+HMDB0015250	Amiodarone
+HMDB0005018	Amlodipine
+HMDB0000051	Ammonia
+HMDB0041827	Ammonium
+HMDB0003403	Amylose
+HMDB0000899	Androstanedione
+HMDB0000053	Androstenedione
+HMDB0000031	Androsterone
+HMDB0002829	Androsterone glucuronide
+HMDB0015049	Anileridine
+HMDB0000194	Anserine
+HMDB0015503	Antipyrine
+HMDB0015488	Antrafenine
+HMDB0001043	Arachidonic acid
+HMDB0006523	Arachidonyl-CoA
+HMDB0015642	Arbekacin
+HMDB0015234	Arbutamine
+HMDB0000052	Argininosuccinic acid
+HMDB0015643	Artemether
+HMDB0000044	Ascorbic acid
+HMDB0001879	Aspirin
+HMDB0001924	Atenolol
+HMDB0005006	Atorvastatin
+HMDB0060671	Atropaldehyde
+HMDB0015128	Azathioprine
+HMDB0014352	Azithromycin
+HMDB0000561	B-Carotene
+HMDB0004992	Benzocaine
+HMDB0006800	Beta-D-Fructose 2-phosphate
+HMDB0003971	Beta-D-Fructose 6-phosphate
+HMDB0000043	Betaine
+HMDB0001252	Betaine aldehyde
+HMDB0014341	Betaxolol
+HMDB0014417	Betazole
+HMDB0015409	Bevantolol
+HMDB0000054	Bilirubin
+HMDB0003325	Bilirubin diglucuronide
+HMDB0001008	Biliverdin
+HMDB0000030	Biotin
+HMDB0014750	Bisoprolol
+HMDB0015696	Bopindolol
+HMDB0015098	Bromfenac
+HMDB0031524	Bromomethane
+HMDB0014442	Bupivacaine
+HMDB0015697	Bupranolol
+HMDB0015057	Buprenorphine
+HMDB0010720	But-2-enoic acid
+HMDB0000039	Butyric acid
+HMDB0001088	Butyryl-CoA
+HMDB0001546	CDP
+HMDB0006968	CDP-DG(16:0/16:0)
+HMDB0006971	CDP-DG(16:0/18:1(9Z))
+HMDB0001564	CDP-Ethanolamine
+HMDB0006737	CE(22:2(13Z,16Z))
+HMDB0056387	CL(16:0/16:0/16:0/16:0)
+HMDB0001847	Caffeine
+HMDB0000464	Calcium
+HMDB0000535	Caproic acid
+HMDB0014704	Carbamazepine
+HMDB0061343	Carbamazepine 2,3-epoxide
+HMDB0060675	Carbamazepine iminoquinone
+HMDB0060658	Carbamazepine-10,11-epoxide
+HMDB0060566	Carbamazepine-O-quinone
+HMDB0001096	Carbamoyl phosphate
+HMDB0001967	Carbon dioxide
+HMDB0060564	Carboxy-ibuprofen
+HMDB0060571	Carboxycelecoxib
+HMDB0060692	Carboxyifosfamide
+HMDB0060449	Carboxyphosphamide
+HMDB0061379	Carfentanil
+HMDB0000033	Carnosine
+HMDB0014959	Carprofen
+HMDB0014662	Carteolol
+HMDB0015267	Carvedilol
+HMDB0005014	Celecoxib
+HMDB0061132	Celecoxib glucuronide
+HMDB0010699	CerP(d18:1/12:0)
+HMDB0004950	Ceramide (d18:1/18:0)
+HMDB0061389	Cerivastatin
+HMDB0000518	Chenodeoxycholic acid
+HMDB0000637	Chenodeoxycholic acid glycine conjugate
+HMDB0006292	Chenodeoxycholoyl-CoA
+HMDB0003362	Chitin
+HMDB0003556	Chitobiose
+HMDB0014589	Chloramphenicol
+HMDB0000492	Chloride ion
+HMDB0013860	Chloroacetaldehyde
+HMDB0015292	Chloroprocaine
+HMDB0000067	Cholesterol
+HMDB0061374	Cholesterol Ester
+HMDB0000619	Cholic acid
+HMDB0000097	Choline
+HMDB0001374	Choloyl-CoA
+HMDB0000629	Chondroitin
+HMDB0000652	Chondroitin 4-sulfate
+HMDB0014644	Cimetidine
+HMDB0004078	Cinnavalininate
+HMDB0060654	Citalopram N-oxide
+HMDB0060462	Citalopram aldehyde
+HMDB0060463	Citalopram propionic acid
+HMDB0001413	Citicoline
+CSBG015	Citrate
+HMDB0000094	Citric acid
+HMDB0000904	Citrulline
+HMDB0015342	Clarithromycin
+HMDB0015321	Clindamycin
+HMDB0015372	Clomipramine
+HMDB0014596	Clomocycline
+HMDB0005011	Clopidogrel
+HMDB0015043	Cocaine
+HMDB0004995	Codeine
+HMDB0060464	Codeine-6-glucuronide
+HMDB0001423	Coenzyme A
+HMDB0001072	Coenzyme Q10
+HMDB0000657	Copper
+HMDB0000643	Coproporphyrin I
+HMDB0000570	Coproporphyrin III
+HMDB0001261	Coproporphyrinogen III
+HMDB0000015	Cortexolone
+HMDB0001547	Corticosterone
+HMDB0000063	Cortisol
+HMDB0002802	Cortisone
+HMDB0001046	Cotinine
+HMDB0001411	Cotinine N-oxide
+HMDB0001013	Cotinine glucuronide
+HMDB0000064	Creatine
+HMDB0002009	Crotonoyl-CoA
+HMDB0002084	Cyanide
+CSBG006	Cyclic ADP ribose
+HMDB0001314	Cyclic GMP
+HMDB0014672	Cyclophosphamide
+HMDB0002991	Cysteamine
+HMDB0002757	Cysteic acid
+HMDB0000078	Cysteinylglycine
+HMDB0000089	Cytidine
+HMDB0000095	Cytidine monophosphate
+HMDB0001176	Cytidine monophosphate N-acetylneuraminic acid
+HMDB0000082	Cytidine triphosphate
+HMDB0000606	D-2-Hydroxyglutaric acid
+HMDB0001016	D-4'-Phosphopantothenate
+HMDB0001321	D-Erythrose 4-phosphate
+HMDB0000660	D-Fructose
+HMDB0001047	D-Fructose 2,6-bisphosphate
+HMDB0000143	D-Galactose
+HMDB0000122	D-Glucose
+HMDB0000127	D-Glucuronic acid
+HMDB0001112	D-Glyceraldehyde 3-phosphate
+HMDB0006458	D-Lactaldehyde
+HMDB0000163	D-Maltose
+HMDB0003848	D-Myo-inositol 3,4,5,6-tetrakisphosphate
+HMDB0006834	D-Pantothenoyl-L-cysteine
+HMDB0000283	D-Ribose
+HMDB0001548	D-Ribose 5-phosphate
+HMDB0000618	D-Ribulose 5-phosphate
+HMDB0001068	D-Sedoheptulose 7-phosphate
+HMDB0004158	D-Urobilinogen
+HMDB0007009	DG(14:0/14:1(9Z)/0:0)
+HMDB0007098	DG(16:0/16:0/0:0)
+HMDB0007102	DG(16:0/18:1(9Z)/0:0)
+HMDB0007112	DG(16:0/20:4(5Z,8Z,11Z,14Z)/0:0)
+HMDB0011133	DHAP(18:0)
+HMDB0011142	DHAP(18:0e)
+HMDB0001264	Dehydroascorbic acid
+HMDB0000077	Dehydroepiandrosterone
+HMDB0001032	Dehydroepiandrosterone sulfate
+HMDB0004238	Delta-12-Prostaglandin J2
+HMDB0014756	Demeclocycline
+HMDB0000101	Deoxyadenosine
+HMDB0000905	Deoxyadenosine monophosphate
+HMDB0001532	Deoxyadenosine triphosphate
+HMDB0000626	Deoxycholic acid
+HMDB0000631	Deoxycholic acid glycine conjugate
+HMDB0000016	Deoxycorticosterone
+HMDB0000014	Deoxycytidine
+HMDB0000085	Deoxyguanosine
+HMDB0000071	Deoxyinosine
+HMDB0001351	Deoxyribose 1-phosphate
+HMDB0001031	Deoxyribose 5-phosphate
+HMDB0000012	Deoxyuridine
+HMDB0001191	Deoxyuridine triphosphate
+HMDB0001373	Dephospho-CoA
+HMDB0015282	Desipramine
+HMDB0060947	Desmethylclomipramine
+HMDB0002719	Desmosterol
+HMDB0006857	Dextrin
+HMDB0015340	Dezocine
+HMDB0014668	Dibucaine
+HMDB0014724	Diclofenac
+HMDB0060472	Didemethylcitalopram
+HMDB0060816	Didesmethyl doxepin
+HMDB0014999	Diflunisal
+HMDB0061204	Difluorodeoxyuridine monophosphate
+HMDB0001340	Diguanosine tetraphosphate
+HMDB0061088	Dihydroartemisinin (DHA)
+HMDB0061351	Dihydroartemisinin glucuronide
+HMDB0000038	Dihydrobiopterin
+HMDB0006752	Dihydroceramide
+HMDB0003259	Dihydrocortisol
+HMDB0001056	Dihydrofolic acid
+HMDB0000985	Dihydrolipoamide
+HMDB0012210	Dihydrolipoate
+HMDB0060548	Dihydromorphine
+HMDB0000980	Dihydroneopterin triphosphate
+HMDB0002961	Dihydrotestosterone
+HMDB0000079	Dihydrothymine
+HMDB0000076	Dihydrouracil
+HMDB0001473	Dihydroxyacetone phosphate
+HMDB0014487	Diltiazem
+HMDB0001120	Dimethylallylpyrophosphate
+HMDB0000087	Dimethylamine
+HMDB0003701	Dimethylbenzimidazole
+HMDB0000092	Dimethylglycine
+HMDB0061719	Dimethylthiambutene
+HMDB0015213	Diphenoxylate
+HMDB0014425	Disopyramide
+HMDB0061376	Disulfide
+HMDB0014960	Disulfiram
+HMDB0014979	Dobutamine
+HMDB0002183	Docosahexaenoic acid
+HMDB0001976	Docosapentaenoic acid (22n-6)
+HMDB0000073	Dopamine
+HMDB0001229	Dopaquinone
+HMDB0015273	Doxepin
+HMDB0061139	Doxepin N-oxide glucuronide
+HMDB0060628	Doxepin-N-oxide
+HMDB0015132	Doxorubicin
+HMDB0060822	Doxorubicin-semiquinone
+HMDB0061231	Doxorubicine hydroxyaglycone
+HMDB0041884	Doxorubicinol
+HMDB0061206	Doxorubicinol deoxaglycone
+HMDB0061232	Doxorubicinol hydroxyaglycone
+HMDB0014399	Doxycycline
+HMDB0001195	Dyspropterin
+HMDB0001999	Eicosapentaenoic acid
+HMDB0060666	Endoxifen
+HMDB0060622	Endoxifen O-glucuronide
+HMDB0061140	Endoxifen sulfate
+HMDB0006792	Epimelibiose
+HMDB0000068	Epinephrine
+HMDB0014344	Erythromycin
+HMDB0005028	Escitalopram
+HMDB0014333	Esmolol
+HMDB0014874	Esomeprazole
+HMDB0000151	Estradiol
+HMDB0000153	Estriol
+HMDB0000145	Estrone
+HMDB0004483	Estrone glucuronide
+HMDB0001425	Estrone sulfate
+HMDB0000108	Ethanol
+HMDB0000149	Ethanolamine
+HMDB0015509	Ethylmorphine
+HMDB0014887	Etodolac
+HMDB0014911	Etoposide
+HMDB0061352	Etoposide catechol
+HMDB0060635	Etoposide glucuronide
+HMDB0061353	Etoposide ortho-quinone
+HMDB0015565	Etoricoxib
+HMDB0001248	FAD
+HMDB0001197	FADH
+HMDB0001919	Famotidine
+HMDB0000961	Farnesyl pyrophosphate
+HMDB0000692	Fe2+
+HMDB0015084	Felbamate
+HMDB0015158	Felodipine
+HMDB0014713	Fenoprofen
+HMDB0014951	Fentanyl
+HMDB0001520	Flavin Mononucleotide
+HMDB0015326	Flecainide
+HMDB0014615	Fluoxetine
+HMDB0060607	Fluoxetine glucuronide
+HMDB0014850	Flurbiprofen
+HMDB0015227	Fluvastatin
+HMDB0000121	Folic acid
+HMDB0001426	Formaldehyde
+HMDB0006822	Formamidopyrimidine nucleoside triphosphate
+HMDB0000142	Formic acid
+HMDB0000854	Formiminoglutamic acid
+HMDB0012948	Formyl-5-hydroxykynurenamine
+HMDB0003419	Formyl-CoA
+HMDB0004089	Formylanthranilic acid
+HMDB0015417	Fosphenytoin
+HMDB0001058	Fructose 1,6-bisphosphate
+HMDB0001076	Fructose 1-phosphate
+HMDB0000124	Fructose 6-phosphate
+HMDB0001265	Fucose 1-phosphate
+HMDB0000134	Fumaric acid
+HMDB0001346	GDP-4-Dehydro-6-deoxy-D-mannose
+HMDB0001095	GDP-L-fucose
+HMDB0004836	Galabiosylceramide (d18:1/22:0)
+HMDB0005826	Galactinol
+HMDB0000107	Galactitol
+HMDB0000645	Galactose 1-phosphate
+HMDB0010708	Galactosylceramide (d18:1/16:0)
+HMDB0006790	Galactosylglycerol
+HMDB0010716	Gamma-Glutamyl-Se-methylselenocysteine
+HMDB0003073	Gamma-Linolenic acid
+HMDB0014584	Gemcitabine
+HMDB0061262	Gemcitabine Monophosphate
+HMDB0060639	Gemcitabine diphosphate
+HMDB0060638	Gemcitabine triphosphate
+HMDB0014936	Gentamicin
+HMDB0001285	Geranyl-PP
+HMDB0000150	Gluconolactone
+HMDB0001514	Glucosamine
+HMDB0001254	Glucosamine 6-phosphate
+HMDB0001586	Glucose 1-phosphate
+HMDB0001401	Glucose 6-phosphate
+HMDB0000140	Glucosylceramide
+HMDB0001339	Glutaryl-CoA
+HMDB0000125	Glutathione
+HMDB0001051	Glyceraldehyde
+HMDB0000139	Glyceric acid
+HMDB0001270	Glyceric acid 1,3-biphosphate
+HMDB0000131	Glycerol
+HMDB0000126	Glycerol 3-phosphate
+HMDB0000086	Glycerophosphocholine
+HMDB0000114	Glycerylphosphorylethanolamine
+HMDB0000123	Glycine
+HMDB0002022	Glycineamideribotide
+HMDB0060679	Glycinexylidide
+HMDB0000138	Glycocholic acid
+HMDB0000757	Glycogen
+HMDB0003344	Glycolaldehyde
+HMDB0000119	Glyoxylic acid
+HMDB0001398	Guaiacol
+HMDB0000128	Guanidoacetic acid
+HMDB0000132	Guanine
+HMDB0000133	Guanosine
+HMDB0011629	Guanosine 2',3'-cyclic phosphate
+HMDB0001201	Guanosine diphosphate
+HMDB0001163	Guanosine diphosphate mannose
+HMDB0001397	Guanosine monophosphate
+HMDB0001273	Guanosine triphosphate
+HMDB0003178	Heme
+HMDB0006901	Heme A
+HMDB0001162	Heme O
+HMDB0001394	Heparin
+HMDB0002845	Hexanoyl-CoA
+HMDB0000870	Histamine
+HMDB0000742	Homocysteine
+HMDB0000130	Homogentisic acid
+HMDB0000118	Homovanillic acid
+HMDB0005175	Homovanillin
+HMDB0015091	Hydrocodone
+HMDB0001362	Hydrogen
+HMDB0059597	Hydrogen Ion
+HMDB0061365	Hydrogen bromide
+HMDB0000595	Hydrogen carbonate
+HMDB0011110	Hydrogen selenide
+HMDB0003276	Hydrogen sulfide
+HMDB0014472	Hydromorphone
+HMDB0002434	Hydroquinone
+HMDB0013995	Hydroxycelecoxib
+HMDB0001390	Hydroxycotinine
+HMDB0060629	Hydroxydesmthyl doxepin glucuronide
+HMDB0001137	Hydroxymethylbilane
+HMDB0060598	Hydroxyphenytoin
+HMDB0000700	Hydroxypropionic acid
+HMDB0001352	Hydroxypyruvic acid
+HMDB0000965	Hypotaurine
+HMDB0000157	Hypoxanthine
+HMDB0003335	IDP
+HMDB0014848	Ibandronate
+HMDB0001925	Ibuprofen
+HMDB0060919	Ibuprofen glucuronide
+HMDB0014453	Ibutilide
+HMDB0015312	Ifosfamide
+HMDB0061265	Ifosforamide Aziridinium
+HMDB0003905	Imidazole-4-acetaldehyde
+HMDB0002024	Imidazoleacetic acid
+HMDB0001848	Imipramine
+HMDB0006779	Indole-5,6-quinone
+HMDB0001190	Indoleacetaldehyde
+HMDB0000197	Indoleacetic acid
+HMDB0014473	Indomethacin
+HMDB0000195	Inosine
+HMDB0000189	Inosine triphosphate
+HMDB0000175	Inosinic acid
+HMDB0003529	Inositol 1,3,4,5,6-pentakisphosphate
+HMDB0001059	Inositol 1,3,4,5-tetraphosphate
+HMDB0001143	Inositol 1,3,4-trisphosphate
+HMDB0012238	Iodide
+HMDB0000021	Iodotyrosine
+HMDB0014900	Irinotecan
+HMDB0001243	Isobutyryl-CoA
+HMDB0000193	Isocitric acid
+HMDB0001347	Isopentenyl pyrophosphate
+HMDB0060691	Isophosphamide mustard
+HMDB0015197	Isoproterenol
+HMDB0001113	Isovaleryl-CoA
+HMDB0002091	Isovalerylglucuronide
+HMDB0014415	Isradipine
+HMDB0015418	Josamycin
+HMDB0015303	Kanamycin
+HMDB0041913	Ketobemidone
+HMDB0000695	Ketoleucine
+HMDB0015144	Ketoprofen
+HMDB0014608	Ketorolac
+HMDB0000715	Kynurenic acid
+HMDB0006454	L-2-Amino-3-oxobutanoic acid
+HMDB0011631	L-3-Hydroxykynurenine
+HMDB0006556	L-4-Hydroxyglutamate semialdehyde
+HMDB0000201	L-Acetylcarnitine
+HMDB0000161	L-Alanine
+HMDB0000517	L-Arginine
+HMDB0000168	L-Asparagine
+HMDB0000191	L-Aspartic acid
+HMDB0000062	L-Carnitine
+HMDB0000099	L-Cystathionine
+HMDB0000574	L-Cysteine
+HMDB0003349	L-Dihydroorotic acid
+HMDB0000181	L-Dopa
+HMDB0001430	L-Dopachrome
+HMDB0000174	L-Fucose
+HMDB0000148	L-Glutamic acid
+HMDB0002104	L-Glutamic gamma-semialdehyde
+HMDB0000641	L-Glutamine
+HMDB0000177	L-Histidine
+HMDB0000719	L-Homoserine
+HMDB0000172	L-Isoleucine
+HMDB0000684	L-Kynurenine
+HMDB0000190	L-Lactic acid
+HMDB0000687	L-Leucine
+HMDB0000182	L-Lysine
+HMDB0000156	L-Malic acid
+HMDB0000696	L-Methionine
+HMDB0000222	L-Palmitoylcarnitine
+HMDB0000159	L-Phenylalanine
+HMDB0000716	L-Pipecolic acid
+HMDB0000162	L-Proline
+HMDB0000187	L-Serine
+HMDB0000167	L-Threonine
+HMDB0000929	L-Tryptophan
+HMDB0000158	L-Tyrosine
+HMDB0000883	L-Valine
+HMDB0059658	L-erythro-tetrahydrobiopterin
+HMDB0007853	LPA(16:0/0:0)
+HMDB0011144	LPA(18:0e/0:0)
+HMDB0014736	Labetalol
+HMDB0003052	Lactaldehyde
+HMDB0004866	Lactosylceramide (d18:1/12:0)
+HMDB0240216	Lafutidine
+HMDB0014847	Lamivudine
+HMDB0060599	Lamivudine sulfoxide
+HMDB0061354	Lamivudine-diphosphate
+HMDB0061355	Lamivudine-diphosphate-choline
+HMDB0061356	Lamivudine-diphosphate-ethanolamine
+HMDB0060641	Lamivudine-monophosphate
+HMDB0060640	Lamivudine-triphosphate
+HMDB0001251	Lanosterin
+HMDB0005008	Lansoprazole
+HMDB0001170	Lathosterol
+HMDB0003571	Lauroyl-CoA
+HMDB0004067	Leucodopachrome
+HMDB0001337	Leukotriene A4
+HMDB0001085	Leukotriene B4
+HMDB0001198	Leukotriene C4
+HMDB0003080	Leukotriene D4
+HMDB0002200	Leukotriene E4
+HMDB0014647	Levallorphan
+HMDB0015341	Levobunolol
+HMDB0015137	Levobupivacaine
+HMDB0015358	Levomethadyl Acetate
+HMDB0014992	Levorphanol
+HMDB0014426	Lidocaine
+HMDB0015564	Lincomycin
+HMDB0000673	Linoleic acid
+HMDB0000265	Liothyronine
+HMDB0000962	Lipoamide
+CSBG016	Lipopolysaccharide
+HMDB0013617	Lipoyl-GMP
+HMDB0000761	Lithocholic acid
+HMDB0000698	Lithocholic acid glycine conjugate
+HMDB0000722	Lithocholyltaurine
+HMDB0015666	Lornoxicam
+HMDB0014372	Lovastatin
+HMDB0015403	Lumiracoxib
+HMDB0014401	Lymecycline
+HMDB0010379	LysoPC(14:0/0:0)
+HMDB0011503	LysoPE(16:0/0:0)
+HMDB0000547	Magnesium
+HMDB0015469	Magnesium salicylate
+HMDB0000744	Malic acid
+HMDB0000691	Malonic acid
+HMDB0011111	Malonic semialdehyde
+HMDB0001175	Malonyl-CoA
+HMDB0002170	Malonyl-CoA semialdehyde
+HMDB0001333	Manganese
+HMDB0001078	Mannose 6-phosphate
+HMDB0014922	Mefenamic acid
+HMDB0004068	Melanin
+HMDB0001389	Melatonin
+HMDB0006791	Melibiitol
+HMDB0000048	Melibiose
+HMDB0014952	Meloxicam
+HMDB0015096	Mepivacaine
+HMDB0015167	Mercaptopurine
+HMDB0004063	Metanephrine
+HMDB0001011	Methacrylyl-CoA
+HMDB0015066	Methacycline
+HMDB0014477	Methadone
+HMDB0015502	Methadyl Acetate
+HMDB0002005	Methionine sulfoxide
+HMDB0014703	Methotrexate
+HMDB0061367	Methyl-S-Cysteinylglycine
+HMDB0061368	Methyl-S-cystein
+HMDB0061327	Methyl-thioguanosine monophosphate
+HMDB0000164	Methylamine
+HMDB0004181	Methylimidazole acetaldehyde
+HMDB0002820	Methylimidazoleacetic acid
+HMDB0000202	Methylmalonic acid
+HMDB0061722	Metiamide
+HMDB0015345	Metipranolol
+HMDB0001932	Metoprolol
+HMDB0000227	Mevalonic acid
+HMDB0001343	Mevalonic acid-5P
+HMDB0014523	Mexiletine
+HMDB0015152	Minocycline
+HMDB0001302	Molybdenum
+HMDB0002206	Molybdopterin
+HMDB0032436	Mono- and diglycerides
+HMDB0060656	Monoethylglycinexylidide
+HMDB0014440	Morphine
+HMDB0041936	Morphine-3-glucuronide
+HMDB0041937	Morphine-6-glucuronide
+HMDB0014826	Mycophenolate mofetil
+HMDB0015159	Mycophenolic acid
+HMDB0060491	Mycophenolic acid O-acyl-glucuronide
+HMDB0060634	Mycophenolic acid glucuronide
+HMDB0000213	Myo-inositol 1-phosphate
+HMDB0003502	Myo-inositol hexakisphosphate
+HMDB0001200	N'-Formylkynurenine
+HMDB0004224	N(omega)-Hydroxyarginine
+HMDB0060850	N,N,O-Tridesmethyltramadol
+HMDB0061345	N,N,O-Tridesmethylvenlafaxine
+HMDB0060667	N,N-Didesmethyltamoxifen
+HMDB0060849	N,N-Didesmethyltramadol
+HMDB0060851	N,O-Didesmethyltramadol
+HMDB0060852	N,O-Didesmethylvenlafaxine
+HMDB0061167	N,O-Didesmethylvenlafaxine glucuronide
+HMDB0061156	N-(2-Carboxymethyl)-morpholine
+HMDB0060650	N-(2-Hydroxyethyl)-morpholine
+HMDB0061157	N-(2-Hydroxyethyl)-morpholine N-oxide
+HMDB0001062	N-Acetyl-D-Glucosamine 6-Phosphate
+HMDB0000215	N-Acetyl-D-glucosamine
+HMDB0001121	N-Acetyl-D-mannosamine 6-phosphate
+HMDB0000812	N-Acetyl-L-aspartic acid
+HMDB0001367	N-Acetyl-glucosamine 1-phosphate
+HMDB0001129	N-Acetylmannosamine
+HMDB0006268	N-Acetylneuraminate 9-phosphate
+HMDB0000230	N-Acetylneuraminic acid
+HMDB0001238	N-Acetylserotonin
+HMDB0060836	N-Desmethyl-O-hydroxy rosiglitazone
+HMDB0060837	N-Desmethyl-o-O-sulfate rosiglitazone
+HMDB0060839	N-Desmethyl-p-O-sulfate rosiglitazone
+HMDB0060838	N-Desmethyl-p-hydroxyrosiglitazone
+HMDB0014021	N-Desmethylcitalopram
+HMDB0060840	N-Desmethyldoxepin
+HMDB0013866	N-Desmethyltamoxifen
+HMDB0061007	N-Desmethyltramadol
+HMDB0013892	N-Desmethylvenlafaxine
+HMDB0060842	N-Despyridinyl rosiglitazone
+HMDB0003470	N-Formyl-L-glutamic acid
+HMDB0004369	N-Methylserotonin
+HMDB0004370	N-Methyltryptamine
+HMDB0061363	N-acetylneuraminyl-Galactosylceramide
+HMDB0061240	N-desmethyl glucuronide rosiglitazone
+HMDB0060980	N-desmethylrosiglitazone
+HMDB0004193	N1-Methyl-2-pyridone-5-carboxamide
+HMDB0004194	N1-Methyl-4-pyridone-3-carboxamide
+HMDB0001562	N5-Formyl-THF
+HMDB0001325	N6,N6,N6-Trimethyl-L-lysine
+HMDB0000902	NAD
+HMDB0001487	NADH
+HMDB0000217	NADP
+HMDB0000221	NADPH
+HMDB0060946	NAPQI
+HMDB0060499	NPC
+HMDB0014604	Nabumetone
+HMDB0015334	Nadolol
+HMDB0014982	Nalbuphine
+HMDB0015314	Naloxone
+HMDB0014842	Naltrexone
+HMDB0001923	Naproxen
+HMDB0015594	Nebivolol
+HMDB0015129	Neomycin
+HMDB0000845	Neopterin
+HMDB0015678	Nepafenac
+HMDB0015090	Netilmicin
+HMDB0014383	Nevirapine
+HMDB0001406	Niacinamide
+HMDB0000855	Nicotinamide riboside
+HMDB0000229	Nicotinamide ribotide
+HMDB0006809	Nicotinate D-ribonucleoside
+HMDB0001934	Nicotine
+HMDB0001272	Nicotine glucuronide
+HMDB0001010	Nicotine imine
+HMDB0001497	Nicotine-1'-N-oxide
+HMDB0001488	Nicotinic acid
+HMDB0001179	Nicotinic acid adenine dinucleotide
+HMDB0001132	Nicotinic acid mononucleotide
+HMDB0015247	Nifedipine
+HMDB0014537	Nimodipine
+HMDB0014545	Nisoldipine
+HMDB0015187	Nitrendipine
+HMDB0003378	Nitric oxide
+HMDB0014723	Nizatidine
+HMDB0060657	Norcodeine
+HMDB0001297	Norcotinine
+HMDB0060615	Norendoxifen
+HMDB0000216	Norepinephrine
+HMDB0060551	Norfluoxetine
+HMDB0061170	Norfluoxetine glucuronide
+HMDB0000819	Normetanephrine
+HMDB0041959	Normorphine
+HMDB0001126	Nornicotine
+HMDB0060688	Nornitrogen mustard
+HMDB0060997	O-Desmethyltramadol
+HMDB0060856	O-Desmethyltramadol glucuronide
+HMDB0060532	O-Desmethylvenlafaxine
+HMDB0061172	O-Desmethylvenlafaxine glucuronide
+HMDB0000224	O-Phosphoethanolamine
+HMDB0002350	Octadecanol
+HMDB0001070	Octanoyl-CoA
+HMDB0001913	Omeprazole
+HMDB0000214	Ornithine
+HMDB0000226	Orotic acid
+HMDB0000218	Orotidylic acid
+HMDB0000223	Oxalacetic acid
+HMDB0015126	Oxaprozin
+HMDB0014914	Oxcarbazepine
+HMDB0059664	Oxidized dithiothreitol
+HMDB0003337	Oxidized glutathione
+HMDB0000225	Oxoadipic acid
+HMDB0000208	Oxoglutaric acid
+HMDB0015520	Oxprenolol
+HMDB0015029	Oxybuprocaine
+HMDB0014640	Oxycodone
+HMDB0001377	Oxygen
+HMDB0015323	Oxymorphone
+HMDB0014733	Oxytetracycline
+HMDB0000674	PA(16:0/16:0)
+HMDB0007883	PC(14:0/20:4(5Z,8Z,11Z,14Z))
+HMDB0007940	PC(15:0/18:2(9Z,12Z))
+HMDB0000564	PC(16:0/16:0)
+HMDB0008204	PC(18:3(9Z,12Z,15Z)/18:2(9Z,12Z))
+HMDB0008790	PC(24:1(15Z)/15:0)
+HMDB0008923	PE(16:0/16:0)
+HMDB0010570	PG(16:0/16:0)
+HMDB0013472	PGP(16:0/16:0)
+HMDB0009778	PI(16:0/16:0)
+HMDB0009783	PI(16:0/18:1(9Z))
+HMDB0009970	PIP(18:1(9Z)/16:0)
+HMDB0010032	PIP2(16:0/16:0)
+HMDB0010037	PIP2(16:0/18:1(9Z))
+HMDB0010042	PIP2(16:0/20:3(8Z,11Z,14Z))
+HMDB0061188	PIP2[4,5](16:0/18:1(9Z))
+HMDB0010147	PIP3(16:0/16:0)
+HMDB0010150	PIP3(16:0/18:1(9Z))
+HMDB0061186	PIP[4'](16:0/18:1(9Z))
+HMDB0061187	PIP[5'](16:0/18:1(9Z))
+HMDB0012282	PPPi
+HMDB0000614	PS(16:0/16:0)
+HMDB0001551	Palmitaldehyde
+HMDB0000220	Palmitic acid
+HMDB0001338	Palmityl-CoA
+HMDB0014427	Pamidronate
+HMDB0003426	Pantetheine
+HMDB0001416	Pantetheine 4'-phosphate
+HMDB0005017	Pantoprazole
+HMDB0000210	Pantothenic acid
+HMDB0004231	Pantothenol
+HMDB0059911	Paracetamol sulfate
+HMDB0001860	Paraxanthine
+HMDB0015490	Paromomycin
+HMDB0015447	Penbutolol
+HMDB0013037	Pentanoyl-CoA
+HMDB0014790	Pentazocine
+HMDB0000228	Phenol
+HMDB0060015	Phenol sulphate
+HMDB0061357	Phenoxyacetic acid derivative
+HMDB0014950	Phenylbutazone
+HMDB0000205	Phenylpyruvic acid
+HMDB0014397	Phenytoin
+HMDB0060864	Phenytoin arene-oxide
+HMDB0060865	Phenytoin catechol
+HMDB0060866	Phenytoin dihydrodiol
+HMDB0060867	Phenytoin methylcatechol
+HMDB0060868	Phenytoin quinone
+HMDB0001429	Phosphate
+HMDB0061372	Phosphatidyl-N-methylethanolamine
+HMDB0061371	Phosphatidyl-ethanolamide
+HMDB0004249	Phosphatidylinositol-3,4,5-trisphosphate
+HMDB0001134	Phosphoadenosine phosphosulfate
+HMDB0001511	Phosphocreatine
+HMDB0000263	Phosphoenolpyruvic acid
+HMDB0001024	Phosphohydroxypyruvic acid
+HMDB0061263	Phosphoramide Aziridinium
+HMDB0060689	Phosphoramide mustard
+HMDB0001439	Phosphoribosyl formamidocarboxamide
+HMDB0000280	Phosphoribosyl pyrophosphate
+HMDB0000999	Phosphoribosylformylglycineamidine
+HMDB0002142	Phosphoric acid
+HMDB0003840	Phosphoroselenoic acid
+HMDB0001565	Phosphorylcholine
+HMDB0000272	Phosphoserine
+HMDB0000801	Phytanic acid
+HMDB0001359	Phytanoyl-CoA
+HMDB0015095	Pindolol
+HMDB0014808	Pirenzepine
+HMDB0014694	Piroxicam
+HMDB0000245	Porphobilinogen
+HMDB0000586	Potassium
+HMDB0015411	Practolol
+HMDB0005022	Pravastatin
+HMDB0000253	Pregnenolone
+HMDB0014888	Prilocaine
+HMDB0001958	Pristanal
+HMDB0000795	Pristanic acid
+HMDB0002057	Pristanoyl-CoA
+HMDB0015169	Procainamide
+HMDB0014859	Procaine
+HMDB0001830	Progesterone
+HMDB0014945	Proparacaine
+HMDB0006806	Propinol adenylate
+HMDB0000237	Propionic acid
+HMDB0001275	Propionyl-CoA
+HMDB0000824	Propionylcarnitine
+HMDB0014785	Propoxyphene
+HMDB0001849	Propranolol
+HMDB0000820	Propyl alcohol
+HMDB0061375	Propyl sulfate
+HMDB0001881	Propylene glycol
+HMDB0002752	Prostaglandin A2
+HMDB0004236	Prostaglandin B2
+HMDB0001403	Prostaglandin D2
+HMDB0001220	Prostaglandin E2
+HMDB0001139	Prostaglandin F2a
+HMDB0003235	Prostaglandin G2
+HMDB0001381	Prostaglandin H2
+HMDB0001335	Prostaglandin I2
+HMDB0002710	Prostaglandin J2
+HMDB0060095	Prostaglandin-c2
+HMDB0000241	Protoporphyrin IX
+HMDB0001097	Protoporphyrinogen IX
+HMDB0001414	Putrescine
+HMDB0001545	Pyridoxal
+HMDB0001491	Pyridoxal 5'-phosphate
+HMDB0001431	Pyridoxamine
+HMDB0001555	Pyridoxamine 5'-phosphate
+HMDB0000239	Pyridoxine
+HMDB0001319	Pyridoxine 5'-phosphate
+HMDB0000957	Pyrocatechol
+HMDB0000267	Pyroglutamic acid
+HMDB0000250	Pyrophosphate
+HMDB0001369	Pyrroline hydroxycarboxylic acid
+HMDB0013636	Pyrroloquinoline quinone
+HMDB0001167	Pyruvaldehyde
+HMDB0000243	Pyruvic acid
+HMDB0059661	QH(2)
+HMDB0001304	QH2
+HMDB0015044	Quinidine
+HMDB0000232	Quinolinic acid
+HMDB0003364	Quinone
+HMDB0002255	R-Methylmalonyl-CoA
+HMDB0005026	Rabeprazole
+HMDB0003213	Raffinose
+HMDB0001930	Ranitidine
+HMDB0004198	Reduced Vitamin K (phylloquinone)
+HMDB0015036	Remifentanil
+HMDB0001358	Retinal
+HMDB0003141	Retinoyl b-glucuronide
+HMDB0003598	Retinyl ester
+HMDB0003648	Retinyl palmitate
+HMDB0000244	Riboflavin
+HMDB0001489	Ribose 1-phosphate
+HMDB0012285	Ribose-1-arsenate
+HMDB0015022	Risedronate
+HMDB0061179	Rofecoxib
+HMDB0015414	Rolitetracycline
+HMDB0014441	Ropivacaine
+HMDB0005031	Rosiglitazone
+HMDB0015230	Rosuvastatin
+HMDB0015695	Roxatidine acetate
+HMDB0014916	Roxithromycin
+HMDB0006869	S-(2-Methylbutanoyl)-dihydrolipoamide
+HMDB0006868	S-(2-Methylpropionyl)-dihydrolipoamide-E
+HMDB0006867	S-(3-Methylbutanoyl)-dihydrolipoamide-E
+HMDB0061366	S-(methyl)glutathione
+HMDB0006878	S-Acetyldihydrolipoamide-E
+HMDB0000939	S-Adenosylhomocysteine
+HMDB0000988	S-Adenosylmethioninamine
+HMDB0001185	S-Adenosylmethionine
+HMDB0001066	S-Lactoylglutathione
+HMDB0002310	S-Methylmalonyl-CoA
+HMDB0000797	SAICAR
+HMDB0001348	SM(d18:1/18:0)
+HMDB0060510	SN-38
+HMDB0061360	SN-38 Glucuronide
+HMDB0000279	Saccharopine
+HMDB0015470	Salicylate-sodium
+HMDB0001895	Salicylic acid
+HMDB0015471	Salsalate
+HMDB0000787	Sapropterin
+HMDB0000271	Sarcosine
+HMDB0011117	Se-Adenosylselenohomocysteine
+HMDB0011118	Se-Adenosylselenomethionine
+HMDB0004113	Se-Methylselenocysteine
+HMDB0060694	Selenic acid
+HMDB0011119	Selenite
+HMDB0006343	Selenocystathionine
+HMDB0003288	Selenocysteine
+HMDB0004122	Selenocystine
+HMDB0004119	Selenohomocysteine
+HMDB0003966	Selenomethionine
+HMDB0000238	Sepiapterin
+HMDB0000259	Serotonin
+HMDB0005007	Simvastatin
+HMDB0000588	Sodium
+HMDB0014542	Sorafenib
+HMDB0060873	Sorafenib N-oxide
+HMDB0061383	Sorafenib N-oxide glucuronide
+HMDB0060872	Sorafenib beta-D-Glucuronide
+HMDB0061350	Sorafenib metabolite M1
+HMDB0061347	Sorafenib metabolite M3
+HMDB0061348	Sorafenib metabolite M4
+HMDB0061349	Sorafenib metabolite M5
+HMDB0014632	Sotalol
+HMDB0015055	Spectinomycin
+HMDB0001257	Spermidine
+HMDB0001256	Spermine
+HMDB0000269	Sphinganine
+HMDB0001383	Sphinganine 1-phosphate
+HMDB0000252	Sphingosine
+HMDB0000277	Sphingosine 1-phosphate
+HMDB0000256	Squalene
+HMDB0003553	Stachyose
+HMDB0015214	Streptomycin
+HMDB0000254	Succinic acid
+HMDB0001259	Succinic acid semialdehyde
+HMDB0001022	Succinyl-CoA
+HMDB0000258	Sucrose
+HMDB0014846	Sufentanil
+HMDB0001448	Sulfate
+HMDB0000240	Sulfite
+HMDB0014743	Sulindac
+HMDB0002168	Superoxide
+HMDB0015008	Suprofen
+HMDB0005356	TG(16:0/16:0/16:0)[iso]
+HMDB0048523	TG(16:1(9Z)/22:0/16:1(9Z))
+HMDB0014813	Tamoxifen
+HMDB0060513	Tamoxifen N-oxide
+HMDB0060616	Tamoxifen-N-glucuronide
+HMDB0000251	Taurine
+HMDB0000951	Taurochenodesoxycholic acid
+HMDB0000036	Taurocholic acid
+HMDB0000896	Taurodeoxycholic acid
+HMDB0015111	Telithromycin
+HMDB0014587	Teniposide
+HMDB0061336	Teniposide catechol derivative
+HMDB0061337	Teniposide o-quinone derivative
+HMDB0014612	Tenoxicam
+HMDB0000234	Testosterone
+HMDB0003193	Testosterone glucuronide
+HMDB0002007	Tetracosahexaenoic acid
+HMDB0006526	Tetracosanoyl-CoA
+HMDB0014897	Tetracycline
+HMDB0000027	Tetrahydrobiopterin
+HMDB0000268	Tetrahydrocorticosterone
+HMDB0000949	Tetrahydrocortisol
+HMDB0000903	Tetrahydrocortisone
+HMDB0001846	Tetrahydrofolic acid
+HMDB0006825	Tetrahydrofolyl-[Glu](2)
+HMDB0006826	Tetrahydrofolyl-[Glu](n)
+HMDB0002825	Theobromine
+HMDB0001889	Theophylline
+HMDB0001372	Thiamine pyrophosphate
+HMDB0001453	Thiocyanate
+HMDB0014496	Thioguanine
+HMDB0060874	Thioguanosine 5'-diphosphate
+HMDB0060875	Thioguanosine 5'-triphosphate
+HMDB0060876	Thioxanthine monophosphate
+HMDB0001452	Thromboxane A2
+HMDB0003252	Thromboxane B2
+HMDB0000273	Thymidine
+HMDB0001342	Thymidine 5'-triphosphate
+HMDB0000262	Thymine
+HMDB0000248	Thyroxine
+HMDB0015538	Tiaprofenic acid
+HMDB0014700	Tigecycline
+HMDB0002054	Tiglyl-CoA
+HMDB0014517	Timolol
+HMDB0014822	Tobramycin
+HMDB0015189	Tocainide
+HMDB0014643	Tolmetin
+HMDB0011639	Topaquinone
+HMDB0014339	Tramadol
+HMDB0015473	Trisalicylate-choline
+HMDB0015448	Troleandomycin
+HMDB0000303	Tryptamine
+HMDB0000306	Tyramine
+HMDB0001018	UDP-D-Xylose
+HMDB0001060	Ubiquinol 8
+HMDB0000300	Uracil
+HMDB0000294	Urea
+HMDB0002031	Ureidoisobutyric acid
+HMDB0000026	Ureidopropionic acid
+HMDB0000828	Ureidosuccinic acid
+HMDB0000289	Uric acid
+HMDB0000296	Uridine
+HMDB0000295	Uridine 5'-diphosphate
+HMDB0000288	Uridine 5'-monophosphate
+HMDB0000286	Uridine diphosphate glucose
+HMDB0000935	Uridine diphosphate glucuronic acid
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine
+HMDB0000302	Uridine diphosphategalactose
+HMDB0000285	Uridine triphosphate
+HMDB0000301	Urocanic acid
+HMDB0000936	Uroporphyrin I
+HMDB0000916	Uroporphyrin III
+HMDB0001086	Uroporphyrinogen III
+HMDB0005033	Valdecoxib
+HMDB0001877	Valproic acid
+HMDB0060877	Valproic acid CoA
+HMDB0000901	Valproic acid glucuronide
+HMDB0061382	Valproyl-dephospho-CoA
+HMDB0000291	Vanillylmandelic acid
+HMDB0001490	Vanylglycol
+HMDB0005016	Venlafaxine
+HMDB0001850	Verapamil
+HMDB0000305	Vitamin A
+HMDB0000876	Vitamin D3
+HMDB0003555	Vitamin K1
+HMDB0002972	Vitamin K1 2,3-epoxide
+HMDB0002111	Water
+HMDB0000292	Xanthine
+HMDB0000299	Xanthosine
+HMDB0000881	Xanthurenic acid
+HMDB0001554	Xanthylic acid
+HMDB0001303	Zinc (II) ion
+HMDB0014543	Zoledronate
+HMDB0006271	Zymosterol intermediate 2
+HMDB0012452	all-trans-18-Hydroxyretinoic acid
+HMDB0012451	all-trans-5,6-Epoxyretinoic acid
+HMDB0001852	all-trans-Retinoic acid
+HMDB0061085	alpha-Hydroxy-N-desmethyl-tamoxifen
+HMDB0060585	alpha-Hydroxytamoxifen
+HMDB0000019	alpha-Ketoisovaleric acid
+HMDB0001388	alpha-Linolenic acid
+HMDB0000056	beta-Alanine
+HMDB0000058	cAMP
+HMDB0000072	cis-Aconitic acid
+HMDB0001508	dADP
+HMDB0001245	dCDP
+HMDB0001202	dCMP
+HMDB0000998	dCTP
+HMDB0000960	dGDP
+HMDB0001440	dGTP
+HMDB0001274	dTDP
+HMDB0001000	dUDP
+HMDB0001409	dUMP
+HMDB0061205	didesmethylclomipramine
+HMDB0000112	gamma-Aminobutyric acid
+HMDB0001049	gamma-Glutamylcysteine
+HMDB0000211	myo-Inositol
+HMDB0060857	o-O-glucuronide rosiglitazone
+HMDB0060858	o-O-sulfate rosiglitazone
+HMDB0061105	ortho-hydroxyrosiglitazone
+HMDB0060669	p-Hydroxyfelbamate
+HMDB0000020	p-Hydroxyphenylacetic acid
+HMDB0060862	p-O-glucuronide rosiglitazone
+HMDB0061241	p-O-sulfate rosiglitazone
+HMDB0060981	para-hydroxyrosiglitazone
+HMDB0003944	trans-2-Hexenoyl-CoA
+HMDB0001568	trans-2-Octenoic acid
+HMDB0001204	trans-3-Hydroxycotinine glucuronide
+HMDB0010726	trans-Dec-2-enoic acid
+HMDB0010719	trans-Hex-2-enoic acid
+HMDB0006529	trans-Octadec-2-enoyl-CoA
