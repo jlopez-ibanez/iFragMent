@@ -20,7 +20,7 @@
 	- Miniconda: https://docs.conda.io/en/latest/miniconda.html
  
 - If executed without arguments, the program will run with default values. To change this behaviour it may be run via command line using as argument any of the IDs found in the ****entities**** folder (See *Section 3* for more information) as in the folowing example:
-	> python ifragment.py c0044
+	>$ python ifragment.py c0044
 - The program will calculate the score of the input compound against all the profiles of its corresponding database and save them in the ****results**** folder.
 
  
